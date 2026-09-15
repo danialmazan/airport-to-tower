@@ -184,6 +184,6 @@ export default function App() {
 
       <section id="methodology" className="methodology-section"><span className="eyebrow">01 — {copy.methodology}</span><h2>{copy.methodologyTitle}</h2><div className="method-grid"><article><span>01</span><h3>{copy.scopeTitle}</h3><p>{copy.scopeText}</p></article><article><span>02</span><h3>{copy.airportTitle}</h3><p>{copy.airportText}</p></article><article><span>03</span><h3>{copy.towerTitle}</h3><p>{copy.towerText}</p></article><article><span>04</span><h3>{copy.calculationTitle}</h3><p>{copy.calculationText}</p></article><article><span>05</span><h3>{copy.limitationsTitle}</h3><p>{copy.limitationsText}</p></article></div></section>
     </main>
-    <footer><span>Airport to Tower Distance Global Index</span><span>WGS84 · {metadata.release_id}</span><a href="https://github.com/danielalmazan" target="_blank" rel="noreferrer">{copy.openSource} ↗</a></footer>
+    <footer><span>Airport to Tower Distance Global Index</span><span>WGS84 · {metadata.release_id}</span><a href="https://github.com/danialmazan/airport-to-tower" target="_blank" rel="noreferrer">{copy.openSource} ↗</a></footer>
   </>;
 }
