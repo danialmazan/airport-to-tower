@@ -1,0 +1,2090 @@
+[
+  {
+    "source_id": "ourairports-2026-09-14",
+    "publisher": "OurAirports",
+    "title": "OurAirports open data snapshot",
+    "url": "https://ourairports.com/data/",
+    "accessed_at": "2026-09-14",
+    "source_type": "airport coordinates and discovery",
+    "licence_note": "Public domain"
+  },
+  {
+    "source_id": "wikidata-q183536",
+    "publisher": "Wikidata contributors",
+    "title": "Tokyo Tower",
+    "url": "https://www.wikidata.org/wiki/Q183536",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q57965",
+    "publisher": "Wikidata contributors",
+    "title": "Tokyo Skytree",
+    "url": "https://www.wikidata.org/wiki/Q57965",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q187635",
+    "publisher": "Wikidata contributors",
+    "title": "Qutb Minar",
+    "url": "https://www.wikidata.org/wiki/Q187635",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q223207",
+    "publisher": "Wikidata contributors",
+    "title": "Oriental Pearl Tower",
+    "url": "https://www.wikidata.org/wiki/Q223207",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q18547",
+    "publisher": "Wikidata contributors",
+    "title": "Shanghai Tower",
+    "url": "https://www.wikidata.org/wiki/Q18547",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q497536",
+    "publisher": "Wikidata contributors",
+    "title": "Jatiya Sangsad Bhaban",
+    "url": "https://www.wikidata.org/wiki/Q497536",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q197833",
+    "publisher": "Wikidata contributors",
+    "title": "China Zun",
+    "url": "https://www.wikidata.org/wiki/Q197833",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7285587",
+    "publisher": "Wikidata contributors",
+    "title": "Rajabai Clock Tower",
+    "url": "https://www.wikidata.org/wiki/Q7285587",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q98937711",
+    "publisher": "Wikidata contributors",
+    "title": "Three Sixty West Tower B",
+    "url": "https://www.wikidata.org/wiki/Q98937711",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1148463",
+    "publisher": "Wikidata contributors",
+    "title": "Tsūtenkaku",
+    "url": "https://www.wikidata.org/wiki/Q1148463",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q16318627",
+    "publisher": "Wikidata contributors",
+    "title": "Abeno Harukas",
+    "url": "https://www.wikidata.org/wiki/Q16318627",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2571455",
+    "publisher": "Wikidata contributors",
+    "title": "Mazar-e-Quaid",
+    "url": "https://www.wikidata.org/wiki/Q2571455",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7076089",
+    "publisher": "Wikidata contributors",
+    "title": "Ocean Towers",
+    "url": "https://www.wikidata.org/wiki/Q7076089",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1666430",
+    "publisher": "Wikidata contributors",
+    "title": "International Commerce Center 1",
+    "url": "https://www.wikidata.org/wiki/Q1666430",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q91274",
+    "publisher": "Wikidata contributors",
+    "title": "Galata Tower",
+    "url": "https://www.wikidata.org/wiki/Q91274",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q131388493",
+    "publisher": "Wikidata contributors",
+    "title": "CBRT Tower",
+    "url": "https://www.wikidata.org/wiki/Q131388493",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7711913",
+    "publisher": "Wikidata contributors",
+    "title": "The 42",
+    "url": "https://www.wikidata.org/wiki/Q7711913",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7142127",
+    "publisher": "Wikidata contributors",
+    "title": "Pasig River Light",
+    "url": "https://www.wikidata.org/wiki/Q7142127",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q168400",
+    "publisher": "Wikidata contributors",
+    "title": "Canton Tower",
+    "url": "https://www.wikidata.org/wiki/Q168400",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1353260",
+    "publisher": "Wikidata contributors",
+    "title": "Tianjin Radio and Television Tower",
+    "url": "https://www.wikidata.org/wiki/Q1353260",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q10939987",
+    "publisher": "Wikidata contributors",
+    "title": "Tianjin Chow Tai Fook Binhai Center",
+    "url": "https://www.wikidata.org/wiki/Q10939987",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q996962",
+    "publisher": "Wikidata contributors",
+    "title": "Minar-e-Pakistan",
+    "url": "https://www.wikidata.org/wiki/Q996962",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7639954",
+    "publisher": "Wikidata contributors",
+    "title": "Suneri Mosque",
+    "url": "https://www.wikidata.org/wiki/Q7639954",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q283257",
+    "publisher": "Wikidata contributors",
+    "title": "Vidhana Soudha",
+    "url": "https://www.wikidata.org/wiki/Q283257",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q126710631",
+    "publisher": "Wikidata contributors",
+    "title": "Shrungagiri Sri Shanmukha Swamy Temple",
+    "url": "https://www.wikidata.org/wiki/Q126710631",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1077308",
+    "publisher": "Wikidata contributors",
+    "title": "Ping An Finance Centre",
+    "url": "https://www.wikidata.org/wiki/Q1077308",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2509435",
+    "publisher": "Wikidata contributors",
+    "title": "Valluvar Kottam",
+    "url": "https://www.wikidata.org/wiki/Q2509435",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q6546309",
+    "publisher": "Wikidata contributors",
+    "title": "Chennai Lighthouse",
+    "url": "https://www.wikidata.org/wiki/Q6546309",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q30686870",
+    "publisher": "Wikidata contributors",
+    "title": "Thamrin Nine",
+    "url": "https://www.wikidata.org/wiki/Q30686870",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q724970",
+    "publisher": "Wikidata contributors",
+    "title": "Wat Arun",
+    "url": "https://www.wikidata.org/wiki/Q724970",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1640197",
+    "publisher": "Wikidata contributors",
+    "title": "King Power Mahanakhon",
+    "url": "https://www.wikidata.org/wiki/Q1640197",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1771696",
+    "publisher": "Wikidata contributors",
+    "title": "Charminar",
+    "url": "https://www.wikidata.org/wiki/Q1771696",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q69134",
+    "publisher": "Wikidata contributors",
+    "title": "Namsan Seoul Tower",
+    "url": "https://www.wikidata.org/wiki/Q69134",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q494895",
+    "publisher": "Wikidata contributors",
+    "title": "Lotte World Tower",
+    "url": "https://www.wikidata.org/wiki/Q494895",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q283373",
+    "publisher": "Wikidata contributors",
+    "title": "Nagoya TV Tower",
+    "url": "https://www.wikidata.org/wiki/Q283373",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1155401",
+    "publisher": "Wikidata contributors",
+    "title": "Midland Square",
+    "url": "https://www.wikidata.org/wiki/Q1155401",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1140026",
+    "publisher": "Wikidata contributors",
+    "title": "Azadi Tower",
+    "url": "https://www.wikidata.org/wiki/Q1140026",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q622796",
+    "publisher": "Wikidata contributors",
+    "title": "Milad Tower",
+    "url": "https://www.wikidata.org/wiki/Q622796",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2118734",
+    "publisher": "Wikidata contributors",
+    "title": "Tianfu Panda Tower",
+    "url": "https://www.wikidata.org/wiki/Q2118734",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q18589922",
+    "publisher": "Wikidata contributors",
+    "title": "Chengdu Greenland Tower",
+    "url": "https://www.wikidata.org/wiki/Q18589922",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q382121",
+    "publisher": "Wikidata contributors",
+    "title": "Zifeng Tower",
+    "url": "https://www.wikidata.org/wiki/Q382121",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q462372",
+    "publisher": "Wikidata contributors",
+    "title": "Tower of the Yellow Crane",
+    "url": "https://www.wikidata.org/wiki/Q462372",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q143235",
+    "publisher": "Wikidata contributors",
+    "title": "Wuhan Greenland Center",
+    "url": "https://www.wikidata.org/wiki/Q143235",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q638512",
+    "publisher": "Wikidata contributors",
+    "title": "Bitexco Financial Tower",
+    "url": "https://www.wikidata.org/wiki/Q638512",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q18640924",
+    "publisher": "Wikidata contributors",
+    "title": "Landmark 81",
+    "url": "https://www.wikidata.org/wiki/Q18640924",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q83063",
+    "publisher": "Wikidata contributors",
+    "title": "Petronas Towers",
+    "url": "https://www.wikidata.org/wiki/Q83063",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7969454",
+    "publisher": "Wikidata contributors",
+    "title": "Merdeka 118",
+    "url": "https://www.wikidata.org/wiki/Q7969454",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1047061",
+    "publisher": "Wikidata contributors",
+    "title": "Giant Wild Goose Pagoda",
+    "url": "https://www.wikidata.org/wiki/Q1047061",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q99208458",
+    "publisher": "Wikidata contributors",
+    "title": "China International Silk Road Center",
+    "url": "https://www.wikidata.org/wiki/Q99208458",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1070",
+    "publisher": "Wikidata contributors",
+    "title": "Ahmedabad",
+    "url": "https://www.wikidata.org/wiki/Q1070",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q317034",
+    "publisher": "Wikidata contributors",
+    "title": "International Commerce Centre",
+    "url": "https://www.wikidata.org/wiki/Q317034",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q548679",
+    "publisher": "Wikidata contributors",
+    "title": "Marina Bay Sands",
+    "url": "https://www.wikidata.org/wiki/Q548679",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2813490",
+    "publisher": "Wikidata contributors",
+    "title": "CPF Building",
+    "url": "https://www.wikidata.org/wiki/Q2813490",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1407266",
+    "publisher": "Wikidata contributors",
+    "title": "Baghdad Tower",
+    "url": "https://www.wikidata.org/wiki/Q1407266",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q100258244",
+    "publisher": "Wikidata contributors",
+    "title": "Central Bank of Iraq Tower",
+    "url": "https://www.wikidata.org/wiki/Q100258244",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q656743",
+    "publisher": "Wikidata contributors",
+    "title": "Kingdom Centre",
+    "url": "https://www.wikidata.org/wiki/Q656743",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q13892708",
+    "publisher": "Wikidata contributors",
+    "title": "Capital Market Authority Headquarters",
+    "url": "https://www.wikidata.org/wiki/Q13892708",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q12495",
+    "publisher": "Wikidata contributors",
+    "title": "Burj Khalifa",
+    "url": "https://www.wikidata.org/wiki/Q12495",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q17003486",
+    "publisher": "Wikidata contributors",
+    "title": "Paramount Tower Hotel & Residences",
+    "url": "https://www.wikidata.org/wiki/Q17003486",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q737602",
+    "publisher": "Wikidata contributors",
+    "title": "Aspire Tower",
+    "url": "https://www.wikidata.org/wiki/Q737602",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1128296",
+    "publisher": "Wikidata contributors",
+    "title": "Doha Convention Center Tower",
+    "url": "https://www.wikidata.org/wiki/Q1128296",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1335640",
+    "publisher": "Wikidata contributors",
+    "title": "Kuwait Towers",
+    "url": "https://www.wikidata.org/wiki/Q1335640",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q557933",
+    "publisher": "Wikidata contributors",
+    "title": "Al Hamra Tower",
+    "url": "https://www.wikidata.org/wiki/Q557933",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1177765",
+    "publisher": "Wikidata contributors",
+    "title": "Tower of David",
+    "url": "https://www.wikidata.org/wiki/Q1177765",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q6699839",
+    "publisher": "Wikidata contributors",
+    "title": "Vert Jerusalem",
+    "url": "https://www.wikidata.org/wiki/Q6699839",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q83101",
+    "publisher": "Wikidata contributors",
+    "title": "Taipei 101",
+    "url": "https://www.wikidata.org/wiki/Q83101",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q41225",
+    "publisher": "Wikidata contributors",
+    "title": "Big Ben",
+    "url": "https://www.wikidata.org/wiki/Q41225",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q18536",
+    "publisher": "Wikidata contributors",
+    "title": "The Shard",
+    "url": "https://www.wikidata.org/wiki/Q18536",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q243",
+    "publisher": "Wikidata contributors",
+    "title": "Eiffel Tower",
+    "url": "https://www.wikidata.org/wiki/Q243",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q989733",
+    "publisher": "Wikidata contributors",
+    "title": "Torrespaña",
+    "url": "https://www.wikidata.org/wiki/Q989733",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q953610",
+    "publisher": "Wikidata contributors",
+    "title": "Torre de Cristal",
+    "url": "https://www.wikidata.org/wiki/Q953610",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q48435",
+    "publisher": "Wikidata contributors",
+    "title": "Basilica and Expiatory Church of the Holy Family",
+    "url": "https://www.wikidata.org/wiki/Q48435",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1147977",
+    "publisher": "Wikidata contributors",
+    "title": "Torre de Collserola",
+    "url": "https://www.wikidata.org/wiki/Q1147977",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q151356",
+    "publisher": "Wikidata contributors",
+    "title": "Fernsehturm Berlin",
+    "url": "https://www.wikidata.org/wiki/Q151356",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q12512",
+    "publisher": "Wikidata contributors",
+    "title": "St. Peter's Basilica",
+    "url": "https://www.wikidata.org/wiki/Q12512",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3664909",
+    "publisher": "Wikidata contributors",
+    "title": "RAI tower",
+    "url": "https://www.wikidata.org/wiki/Q3664909",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q18068",
+    "publisher": "Wikidata contributors",
+    "title": "Milan Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q18068",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3995200",
+    "publisher": "Wikidata contributors",
+    "title": "Allianz Tower",
+    "url": "https://www.wikidata.org/wiki/Q3995200",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q181324",
+    "publisher": "Wikidata contributors",
+    "title": "Ostankino Tower",
+    "url": "https://www.wikidata.org/wiki/Q181324",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q736587",
+    "publisher": "Wikidata contributors",
+    "title": "Peter and Paul Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q736587",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4255374",
+    "publisher": "Wikidata contributors",
+    "title": "Lakhta Centre",
+    "url": "https://www.wikidata.org/wiki/Q4255374",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q142917",
+    "publisher": "Wikidata contributors",
+    "title": "Mother Ukraine Monument",
+    "url": "https://www.wikidata.org/wiki/Q142917",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1369185",
+    "publisher": "Wikidata contributors",
+    "title": "Kyiv TV Tower",
+    "url": "https://www.wikidata.org/wiki/Q1369185",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q167566",
+    "publisher": "Wikidata contributors",
+    "title": "Palace of Culture and Science",
+    "url": "https://www.wikidata.org/wiki/Q167566",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q116847270",
+    "publisher": "Wikidata contributors",
+    "title": "Varso Tower",
+    "url": "https://www.wikidata.org/wiki/Q116847270",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1413217",
+    "publisher": "Wikidata contributors",
+    "title": "Žižkov Television Tower",
+    "url": "https://www.wikidata.org/wiki/Q1413217",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q686544",
+    "publisher": "Wikidata contributors",
+    "title": "Donauturm",
+    "url": "https://www.wikidata.org/wiki/Q686544",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q11819",
+    "publisher": "Wikidata contributors",
+    "title": "Hungarian Parliament Building",
+    "url": "https://www.wikidata.org/wiki/Q11819",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q25457032",
+    "publisher": "Wikidata contributors",
+    "title": "Száva utca TV Tower",
+    "url": "https://www.wikidata.org/wiki/Q25457032",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q164150",
+    "publisher": "Wikidata contributors",
+    "title": "Palace of the Parliament",
+    "url": "https://www.wikidata.org/wiki/Q164150",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1428093",
+    "publisher": "Wikidata contributors",
+    "title": "National Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q1428093",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q10288",
+    "publisher": "Wikidata contributors",
+    "title": "Parthenon",
+    "url": "https://www.wikidata.org/wiki/Q10288",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q215003",
+    "publisher": "Wikidata contributors",
+    "title": "Belém Tower",
+    "url": "https://www.wikidata.org/wiki/Q215003",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q233737",
+    "publisher": "Wikidata contributors",
+    "title": "Vasco da Gama Bridge",
+    "url": "https://www.wikidata.org/wiki/Q233737",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q18642",
+    "publisher": "Wikidata contributors",
+    "title": "Clérigos Church",
+    "url": "https://www.wikidata.org/wiki/Q18642",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q54802080",
+    "publisher": "Wikidata contributors",
+    "title": "Clérigos Tower and Church",
+    "url": "https://www.wikidata.org/wiki/Q54802080",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1134365",
+    "publisher": "Wikidata contributors",
+    "title": "Spire of Dublin",
+    "url": "https://www.wikidata.org/wiki/Q1134365",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q846365",
+    "publisher": "Wikidata contributors",
+    "title": "St Patrick's Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q846365",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q180901",
+    "publisher": "Wikidata contributors",
+    "title": "Atomium",
+    "url": "https://www.wikidata.org/wiki/Q180901",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3533638",
+    "publisher": "Wikidata contributors",
+    "title": "Finance Tower",
+    "url": "https://www.wikidata.org/wiki/Q3533638",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1816984",
+    "publisher": "Wikidata contributors",
+    "title": "Westerkerk",
+    "url": "https://www.wikidata.org/wiki/Q1816984",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q969215",
+    "publisher": "Wikidata contributors",
+    "title": "Euromast",
+    "url": "https://www.wikidata.org/wiki/Q969215",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1140534",
+    "publisher": "Wikidata contributors",
+    "title": "Rundetaarn",
+    "url": "https://www.wikidata.org/wiki/Q1140534",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q648483",
+    "publisher": "Wikidata contributors",
+    "title": "Stockholm City Hall",
+    "url": "https://www.wikidata.org/wiki/Q648483",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q10550988",
+    "publisher": "Wikidata contributors",
+    "title": "Block Lusten",
+    "url": "https://www.wikidata.org/wiki/Q10550988",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q373850",
+    "publisher": "Wikidata contributors",
+    "title": "Oslo City Hall",
+    "url": "https://www.wikidata.org/wiki/Q373850",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q738015",
+    "publisher": "Wikidata contributors",
+    "title": "Helsinki Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q738015",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q385150",
+    "publisher": "Wikidata contributors",
+    "title": "Yle Transmission Tower",
+    "url": "https://www.wikidata.org/wiki/Q385150",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q684948",
+    "publisher": "Wikidata contributors",
+    "title": "Grossmünster",
+    "url": "https://www.wikidata.org/wiki/Q684948",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1337473",
+    "publisher": "Wikidata contributors",
+    "title": "St. Jakob church",
+    "url": "https://www.wikidata.org/wiki/Q1337473",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q167193",
+    "publisher": "Wikidata contributors",
+    "title": "Frauenkirche",
+    "url": "https://www.wikidata.org/wiki/Q167193",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q599148",
+    "publisher": "Wikidata contributors",
+    "title": "Olympiaturm",
+    "url": "https://www.wikidata.org/wiki/Q599148",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q321291",
+    "publisher": "Wikidata contributors",
+    "title": "Main Tower",
+    "url": "https://www.wikidata.org/wiki/Q321291",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q701496",
+    "publisher": "Wikidata contributors",
+    "title": "Europaturm",
+    "url": "https://www.wikidata.org/wiki/Q701496",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q648375",
+    "publisher": "Wikidata contributors",
+    "title": "Heinrich Hertz Tower",
+    "url": "https://www.wikidata.org/wiki/Q648375",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4176",
+    "publisher": "Wikidata contributors",
+    "title": "Cologne Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q4176",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q153646",
+    "publisher": "Wikidata contributors",
+    "title": "Colonius",
+    "url": "https://www.wikidata.org/wiki/Q153646",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2578415",
+    "publisher": "Wikidata contributors",
+    "title": "Manchester Town Hall",
+    "url": "https://www.wikidata.org/wiki/Q2578415",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q110162752",
+    "publisher": "Wikidata contributors",
+    "title": "The Bank Tower 2",
+    "url": "https://www.wikidata.org/wiki/Q110162752",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4093",
+    "publisher": "Wikidata contributors",
+    "title": "Glasgow",
+    "url": "https://www.wikidata.org/wiki/Q4093",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2502213",
+    "publisher": "Wikidata contributors",
+    "title": "Scott Monument",
+    "url": "https://www.wikidata.org/wiki/Q2502213",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1258275",
+    "publisher": "Wikidata contributors",
+    "title": "Avala Tower",
+    "url": "https://www.wikidata.org/wiki/Q1258275",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q312220",
+    "publisher": "Wikidata contributors",
+    "title": "Zagreb Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q312220",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q790278",
+    "publisher": "Wikidata contributors",
+    "title": "Avaz Twist Tower",
+    "url": "https://www.wikidata.org/wiki/Q790278",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3437287",
+    "publisher": "Wikidata contributors",
+    "title": "Greece–Bosnia and Herzegovina Friendship Building",
+    "url": "https://www.wikidata.org/wiki/Q3437287",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1890632",
+    "publisher": "Wikidata contributors",
+    "title": "Millennium Cross",
+    "url": "https://www.wikidata.org/wiki/Q1890632",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1515102",
+    "publisher": "Wikidata contributors",
+    "title": "Maritim Hotel Plaza Tirana",
+    "url": "https://www.wikidata.org/wiki/Q1515102",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q614684",
+    "publisher": "Wikidata contributors",
+    "title": "Cairo Tower",
+    "url": "https://www.wikidata.org/wiki/Q614684",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q102281065",
+    "publisher": "Wikidata contributors",
+    "title": "Iconic Tower",
+    "url": "https://www.wikidata.org/wiki/Q102281065",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q16733944",
+    "publisher": "Wikidata contributors",
+    "title": "NITEL Building",
+    "url": "https://www.wikidata.org/wiki/Q16733944",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q63483561",
+    "publisher": "Wikidata contributors",
+    "title": "Tour de l'Échangeur de Limete",
+    "url": "https://www.wikidata.org/wiki/Q63483561",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1563940",
+    "publisher": "Wikidata contributors",
+    "title": "Hillbrow Tower",
+    "url": "https://www.wikidata.org/wiki/Q1563940",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q32788393",
+    "publisher": "Wikidata contributors",
+    "title": "Mausoleum of Agostinho Neto",
+    "url": "https://www.wikidata.org/wiki/Q32788393",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q553923",
+    "publisher": "Wikidata contributors",
+    "title": "Corinthia Hotel Khartoum",
+    "url": "https://www.wikidata.org/wiki/Q553923",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q96912060",
+    "publisher": "Wikidata contributors",
+    "title": "PSPF Towers – Tower B",
+    "url": "https://www.wikidata.org/wiki/Q96912060",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q43244",
+    "publisher": "Wikidata contributors",
+    "title": "Lighthouse of Alexandria",
+    "url": "https://www.wikidata.org/wiki/Q43244",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3533159",
+    "publisher": "Wikidata contributors",
+    "title": "Tour Postel 2001",
+    "url": "https://www.wikidata.org/wiki/Q3533159",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3272625",
+    "publisher": "Wikidata contributors",
+    "title": "Kenyatta International Convention Centre",
+    "url": "https://www.wikidata.org/wiki/Q3272625",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q55642324",
+    "publisher": "Wikidata contributors",
+    "title": "The Pinnacle (Nairobi)",
+    "url": "https://www.wikidata.org/wiki/Q55642324",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q41346",
+    "publisher": "Wikidata contributors",
+    "title": "Hassan II Mosque",
+    "url": "https://www.wikidata.org/wiki/Q41346",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q60851364",
+    "publisher": "Wikidata contributors",
+    "title": "Casablanca Finance City Tower",
+    "url": "https://www.wikidata.org/wiki/Q60851364",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q124619191",
+    "publisher": "Wikidata contributors",
+    "title": "Villagio Apartments",
+    "url": "https://www.wikidata.org/wiki/Q124619191",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q27857526",
+    "publisher": "Wikidata contributors",
+    "title": "Commercial Bank of Ethiopia Headquarters",
+    "url": "https://www.wikidata.org/wiki/Q27857526",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q96912134",
+    "publisher": "Wikidata contributors",
+    "title": "Wegagen Bank Headquarters",
+    "url": "https://www.wikidata.org/wiki/Q96912134",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q470763",
+    "publisher": "Wikidata contributors",
+    "title": "African Renaissance Monument",
+    "url": "https://www.wikidata.org/wiki/Q470763",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q96912163",
+    "publisher": "Wikidata contributors",
+    "title": "Immeuble Kébé",
+    "url": "https://www.wikidata.org/wiki/Q96912163",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4022677",
+    "publisher": "Wikidata contributors",
+    "title": "Kampala Mosque",
+    "url": "https://www.wikidata.org/wiki/Q4022677",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7186495",
+    "publisher": "Wikidata contributors",
+    "title": "Mother Temple of Africa",
+    "url": "https://www.wikidata.org/wiki/Q7186495",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q10270271",
+    "publisher": "Wikidata contributors",
+    "title": "Maputo City Hall",
+    "url": "https://www.wikidata.org/wiki/Q10270271",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q96912088",
+    "publisher": "Wikidata contributors",
+    "title": "Banco de Mocambique Tower 1",
+    "url": "https://www.wikidata.org/wiki/Q96912088",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3561",
+    "publisher": "Wikidata contributors",
+    "title": "Algiers",
+    "url": "https://www.wikidata.org/wiki/Q3561",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q29059648",
+    "publisher": "Wikidata contributors",
+    "title": "Nation Tower",
+    "url": "https://www.wikidata.org/wiki/Q29059648",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q579331",
+    "publisher": "Wikidata contributors",
+    "title": "Hassan Tower",
+    "url": "https://www.wikidata.org/wiki/Q579331",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q56064359",
+    "publisher": "Wikidata contributors",
+    "title": "New Reserve Bank Tower",
+    "url": "https://www.wikidata.org/wiki/Q56064359",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q21007716",
+    "publisher": "Wikidata contributors",
+    "title": "FINDECO House",
+    "url": "https://www.wikidata.org/wiki/Q21007716",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7797448",
+    "publisher": "Wikidata contributors",
+    "title": "Three Dikgosi Monument",
+    "url": "https://www.wikidata.org/wiki/Q7797448",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3935",
+    "publisher": "Wikidata contributors",
+    "title": "Windhoek",
+    "url": "https://www.wikidata.org/wiki/Q3935",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3915",
+    "publisher": "Wikidata contributors",
+    "title": "Antananarivo",
+    "url": "https://www.wikidata.org/wiki/Q3915",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2882647",
+    "publisher": "Wikidata contributors",
+    "title": "Bank of Mauritius Tower",
+    "url": "https://www.wikidata.org/wiki/Q2882647",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q9188",
+    "publisher": "Wikidata contributors",
+    "title": "Empire State Building",
+    "url": "https://www.wikidata.org/wiki/Q9188",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q47321192",
+    "publisher": "Wikidata contributors",
+    "title": "50 West 66th Street",
+    "url": "https://www.wikidata.org/wiki/Q47321192",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q368489",
+    "publisher": "Wikidata contributors",
+    "title": "Los Angeles City Hall",
+    "url": "https://www.wikidata.org/wiki/Q368489",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q136373608",
+    "publisher": "Wikidata contributors",
+    "title": "Eighteen Eighty Eight Building",
+    "url": "https://www.wikidata.org/wiki/Q136373608",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q29294",
+    "publisher": "Wikidata contributors",
+    "title": "Willis Tower",
+    "url": "https://www.wikidata.org/wiki/Q29294",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4616395",
+    "publisher": "Wikidata contributors",
+    "title": "200 North Riverside Plaza",
+    "url": "https://www.wikidata.org/wiki/Q4616395",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1248619",
+    "publisher": "Wikidata contributors",
+    "title": "Reunion Tower",
+    "url": "https://www.wikidata.org/wiki/Q1248619",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q806675",
+    "publisher": "Wikidata contributors",
+    "title": "Bank of America Plaza",
+    "url": "https://www.wikidata.org/wiki/Q806675",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q935919",
+    "publisher": "Wikidata contributors",
+    "title": "JPMorgan Chase Tower",
+    "url": "https://www.wikidata.org/wiki/Q935919",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q178114",
+    "publisher": "Wikidata contributors",
+    "title": "Washington Monument",
+    "url": "https://www.wikidata.org/wiki/Q178114",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4269513",
+    "publisher": "Wikidata contributors",
+    "title": "Healy Hall",
+    "url": "https://www.wikidata.org/wiki/Q4269513",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q19817557",
+    "publisher": "Wikidata contributors",
+    "title": "One Thousand Museum",
+    "url": "https://www.wikidata.org/wiki/Q19817557",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3177225",
+    "publisher": "Wikidata contributors",
+    "title": "Westin Peachtree Plaza Hotel",
+    "url": "https://www.wikidata.org/wiki/Q3177225",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2746067",
+    "publisher": "Wikidata contributors",
+    "title": "191 Peachtree Tower",
+    "url": "https://www.wikidata.org/wiki/Q2746067",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q17986468",
+    "publisher": "Wikidata contributors",
+    "title": "Four Seasons Hotel & Private Residences, One Dalton Street",
+    "url": "https://www.wikidata.org/wiki/Q17986468",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q216865",
+    "publisher": "Wikidata contributors",
+    "title": "Transamerica Pyramid",
+    "url": "https://www.wikidata.org/wiki/Q216865",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q650097",
+    "publisher": "Wikidata contributors",
+    "title": "Sutro Tower",
+    "url": "https://www.wikidata.org/wiki/Q650097",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q5317",
+    "publisher": "Wikidata contributors",
+    "title": "Space Needle",
+    "url": "https://www.wikidata.org/wiki/Q5317",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q19864159",
+    "publisher": "Wikidata contributors",
+    "title": "888 Second Avenue",
+    "url": "https://www.wikidata.org/wiki/Q19864159",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1138183",
+    "publisher": "Wikidata contributors",
+    "title": "Philadelphia City Hall",
+    "url": "https://www.wikidata.org/wiki/Q1138183",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q570717",
+    "publisher": "Wikidata contributors",
+    "title": "1818 Market Street",
+    "url": "https://www.wikidata.org/wiki/Q570717",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q134883",
+    "publisher": "Wikidata contributors",
+    "title": "CN Tower",
+    "url": "https://www.wikidata.org/wiki/Q134883",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q61602719",
+    "publisher": "Wikidata contributors",
+    "title": "Montreal Tower",
+    "url": "https://www.wikidata.org/wiki/Q61602719",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1344856",
+    "publisher": "Wikidata contributors",
+    "title": "Place Ville Marie",
+    "url": "https://www.wikidata.org/wiki/Q1344856",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q867340",
+    "publisher": "Wikidata contributors",
+    "title": "Harbour Centre",
+    "url": "https://www.wikidata.org/wiki/Q867340",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1785026",
+    "publisher": "Wikidata contributors",
+    "title": "Living Shangri-La",
+    "url": "https://www.wikidata.org/wiki/Q1785026",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q947870",
+    "publisher": "Wikidata contributors",
+    "title": "Torre Latinoamericana",
+    "url": "https://www.wikidata.org/wiki/Q947870",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q53088",
+    "publisher": "Wikidata contributors",
+    "title": "Torre AXA México",
+    "url": "https://www.wikidata.org/wiki/Q53088",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1706069",
+    "publisher": "Wikidata contributors",
+    "title": "Guadalajara Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q1706069",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q5436075",
+    "publisher": "Wikidata contributors",
+    "title": "Faro del Comercio",
+    "url": "https://www.wikidata.org/wiki/Q5436075",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1708874",
+    "publisher": "Wikidata contributors",
+    "title": "José Martí Memorial",
+    "url": "https://www.wikidata.org/wiki/Q1708874",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q110110932",
+    "publisher": "Wikidata contributors",
+    "title": "Cuban Telephone Company Building",
+    "url": "https://www.wikidata.org/wiki/Q110110932",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q5853834",
+    "publisher": "Wikidata contributors",
+    "title": "F&F Tower",
+    "url": "https://www.wikidata.org/wiki/Q5853834",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2737422",
+    "publisher": "Wikidata contributors",
+    "title": "Pearl Tower",
+    "url": "https://www.wikidata.org/wiki/Q2737422",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q169420",
+    "publisher": "Wikidata contributors",
+    "title": "Edifício Altino Arantes",
+    "url": "https://www.wikidata.org/wiki/Q169420",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q42258",
+    "publisher": "Wikidata contributors",
+    "title": "Mirante do Vale",
+    "url": "https://www.wikidata.org/wiki/Q42258",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q831389",
+    "publisher": "Wikidata contributors",
+    "title": "Obelisco de Buenos Aires",
+    "url": "https://www.wikidata.org/wiki/Q831389",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q114055043",
+    "publisher": "Wikidata contributors",
+    "title": "Q114055043",
+    "url": "https://www.wikidata.org/wiki/Q114055043",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q79961",
+    "publisher": "Wikidata contributors",
+    "title": "Christ the Redeemer",
+    "url": "https://www.wikidata.org/wiki/Q79961",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2411716",
+    "publisher": "Wikidata contributors",
+    "title": "Rio de Janeiro Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q2411716",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q2446793",
+    "publisher": "Wikidata contributors",
+    "title": "Cathedral of Lima",
+    "url": "https://www.wikidata.org/wiki/Q2446793",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q48460897",
+    "publisher": "Wikidata contributors",
+    "title": "T Tower",
+    "url": "https://www.wikidata.org/wiki/Q48460897",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q19207166",
+    "publisher": "Wikidata contributors",
+    "title": "Torres Atrio",
+    "url": "https://www.wikidata.org/wiki/Q19207166",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1542408",
+    "publisher": "Wikidata contributors",
+    "title": "Gran Torre Costanera",
+    "url": "https://www.wikidata.org/wiki/Q1542408",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4388657",
+    "publisher": "Wikidata contributors",
+    "title": "Parque Central Complex",
+    "url": "https://www.wikidata.org/wiki/Q4388657",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1054303",
+    "publisher": "Wikidata contributors",
+    "title": "Confinanzas Financial Center",
+    "url": "https://www.wikidata.org/wiki/Q1054303",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q42800",
+    "publisher": "Wikidata contributors",
+    "title": "Belo Horizonte",
+    "url": "https://www.wikidata.org/wiki/Q42800",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q201720",
+    "publisher": "Wikidata contributors",
+    "title": "Cathedral of Brasília",
+    "url": "https://www.wikidata.org/wiki/Q201720",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1270936",
+    "publisher": "Wikidata contributors",
+    "title": "Brasilia TV Tower",
+    "url": "https://www.wikidata.org/wiki/Q1270936",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1328348",
+    "publisher": "Wikidata contributors",
+    "title": "Elevador Lacerda",
+    "url": "https://www.wikidata.org/wiki/Q1328348",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q10323861",
+    "publisher": "Wikidata contributors",
+    "title": "Mansão Margarida Costa Pinto",
+    "url": "https://www.wikidata.org/wiki/Q10323861",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q15975929",
+    "publisher": "Wikidata contributors",
+    "title": "Malakoff tower",
+    "url": "https://www.wikidata.org/wiki/Q15975929",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3057904",
+    "publisher": "Wikidata contributors",
+    "title": "Coltejer Building",
+    "url": "https://www.wikidata.org/wiki/Q3057904",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q7826994",
+    "publisher": "Wikidata contributors",
+    "title": "Torre del Café",
+    "url": "https://www.wikidata.org/wiki/Q7826994",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4868435",
+    "publisher": "Wikidata contributors",
+    "title": "Basilica of the National Vow",
+    "url": "https://www.wikidata.org/wiki/Q4868435",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q6150287",
+    "publisher": "Wikidata contributors",
+    "title": "Torre The Point",
+    "url": "https://www.wikidata.org/wiki/Q6150287",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1519373",
+    "publisher": "Wikidata contributors",
+    "title": "Palacio Salvo",
+    "url": "https://www.wikidata.org/wiki/Q1519373",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q109313102",
+    "publisher": "Wikidata contributors",
+    "title": "Torre SAETA",
+    "url": "https://www.wikidata.org/wiki/Q109313102",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q827268",
+    "publisher": "Wikidata contributors",
+    "title": "Sydney Tower",
+    "url": "https://www.wikidata.org/wiki/Q827268",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q19870155",
+    "publisher": "Wikidata contributors",
+    "title": "1 Macquarie Place",
+    "url": "https://www.wikidata.org/wiki/Q19870155",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q19817555",
+    "publisher": "Wikidata contributors",
+    "title": "Light House Melbourne",
+    "url": "https://www.wikidata.org/wiki/Q19817555",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q4968552",
+    "publisher": "Wikidata contributors",
+    "title": "Brisbane City Hall",
+    "url": "https://www.wikidata.org/wiki/Q4968552",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q16823864",
+    "publisher": "Wikidata contributors",
+    "title": "300 George Street, Brisbane",
+    "url": "https://www.wikidata.org/wiki/Q16823864",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q3183",
+    "publisher": "Wikidata contributors",
+    "title": "Perth",
+    "url": "https://www.wikidata.org/wiki/Q3183",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q5112",
+    "publisher": "Wikidata contributors",
+    "title": "Adelaide",
+    "url": "https://www.wikidata.org/wiki/Q5112",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q37100",
+    "publisher": "Wikidata contributors",
+    "title": "Auckland",
+    "url": "https://www.wikidata.org/wiki/Q37100",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q10323215",
+    "publisher": "Wikidata contributors",
+    "title": "Majestic Centre",
+    "url": "https://www.wikidata.org/wiki/Q10323215",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q1077977",
+    "publisher": "Wikidata contributors",
+    "title": "Christ Church Cathedral",
+    "url": "https://www.wikidata.org/wiki/Q1077977",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q17036267",
+    "publisher": "Wikidata contributors",
+    "title": "Westpac Canterbury Centre",
+    "url": "https://www.wikidata.org/wiki/Q17036267",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q448450",
+    "publisher": "Wikidata contributors",
+    "title": "Aloha Tower",
+    "url": "https://www.wikidata.org/wiki/Q448450",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q106436675",
+    "publisher": "Wikidata contributors",
+    "title": "Q106436675",
+    "url": "https://www.wikidata.org/wiki/Q106436675",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  },
+  {
+    "source_id": "wikidata-q131658559",
+    "publisher": "Wikidata contributors",
+    "title": "WG Friendship Plaza Suva",
+    "url": "https://www.wikidata.org/wiki/Q131658559",
+    "accessed_at": "2026-09-14",
+    "source_type": "tower coordinates and height",
+    "licence_note": "CC0 structured data"
+  }
+]

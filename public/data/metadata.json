@@ -1,0 +1,18 @@
+{
+  "release_id": "2026-research-preview-1",
+  "release_status": "research_preview",
+  "generated_at": "2026-09-14T00:00:00Z",
+  "review_cutoff": "2026-09-14",
+  "methodology_version": "1.0.0",
+  "city_count": 150,
+  "airport_count": 208,
+  "tower_count": 231,
+  "observation_count": 416,
+  "mode_counts": {
+    "tallest": 208,
+    "iconic": 208
+  },
+  "low_confidence_selection_count": 52,
+  "candidate_selection_count": 300,
+  "source_snapshot": "OurAirports 2026-09-14; Wikidata entities accessed 2026-09-14"
+}

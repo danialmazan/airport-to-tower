@@ -1,0 +1,39 @@
+{
+  "name": "airport-tower-distance-global-index",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "research:seed": "tsx scripts/research-seed.ts",
+    "generate": "tsx scripts/generate-observations.ts",
+    "validate:data": "tsx scripts/validate-data.ts",
+    "check": "npm run generate && npm run validate:data && tsc --noEmit && vitest run",
+    "build": "npm run generate && npm run validate:data && tsc --noEmit && vite build",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "geographiclib-geodesic": "2.2.0",
+    "maplibre-gl": "6.9.1",
+    "papaparse": "5.7.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@testing-library/jest-dom": "6.9.1",
+    "@testing-library/react": "16.3.3",
+    "@types/node": "24.13.4",
+    "@types/papaparse": "5.5.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "5.2.0",
+    "jsdom": "26.1.0",
+    "tsx": "4.23.13",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vitest": "4.1.11"
+  }
+}
