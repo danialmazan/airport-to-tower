@@ -4,7 +4,7 @@ A static, bilingual data-visualisation ranking airport–city–tower combinatio
 
 ## Release status
 
-The current 150-city dataset is a **research preview**, not a publication-ready editorial edition. Coverage, relational structure, calculations, and interfaces are complete; airport eligibility and tower selections were machine-assisted candidate discoveries and still require source-by-source verification against the methodology. This status is encoded in `metadata.json` and shown in the interface so the preview cannot be mistaken for the reviewed public release.
+The current 173-city dataset is a **research preview**, not a publication-ready editorial edition. Coverage, relational structure, calculations, and interfaces are complete; airport eligibility and tower selections were machine-assisted candidate discoveries and still require source-by-source verification against the methodology. This status is encoded in `metadata.json` so the preview cannot be mistaken for the reviewed public release.
 
 ## Commands
 

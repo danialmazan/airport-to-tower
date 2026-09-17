@@ -1,209 +1,233 @@
-airport_id,airport_name,airport_name_es,iata,icao,latitude,longitude,airport_type,coordinate_source_id,reviewed_at
-ourairports-5627,Tokyo Haneda International Airport,Tokyo Haneda International Airport,HND,RJTT,35.549678,139.786958,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5531,Narita International Airport,Narita International Airport,NRT,RJAA,35.76858,140.388714,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26555,Indira Gandhi International Airport,Indira Gandhi International Airport,DEL,VIDP,28.55563,77.09519,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27223,Shanghai Pudong International Airport,Shanghai Pudong International Airport,PVG,ZSPD,31.1434,121.805,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27225,Shanghai Hongqiao International Airport,Shanghai Hongqiao International Airport,SHA,ZSSS,31.198104,121.33426,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26534,Hazrat Shahjalal International Airport,Hazrat Shahjalal International Airport,DAC,VGHS,23.843347,90.397783,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27188,Beijing Capital International Airport,Beijing Capital International Airport,PEK,ZBAA,40.077349,116.596702,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-330820,Beijing Daxing International Airport,Beijing Daxing International Airport,PKX,ZBAD,39.501289,116.413967,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26434,Chhatrapati Shivaji Maharaj International Airport,Chhatrapati Shivaji Maharaj International Airport,BOM,VABB,19.088699,72.867897,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5536,Kansai International Airport,Kansai International Airport,KIX,RJBB,34.427299,135.244003,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5598,Osaka Itami International Airport,Osaka Itami International Airport,ITM,RJOO,34.780853,135.440829,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5255,Jinnah International Airport,Jinnah International Airport,KHI,OPKC,24.9065,67.160797,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27228,Chongqing Jiangbei International Airport,Chongqing Jiangbei International Airport,CKG,ZUCK,29.712254,106.651895,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-317457,İstanbul Airport,İstanbul Airport,IST,LTFM,41.274874,28.732136,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4569,Istanbul Sabiha Gökçen International Airport,Istanbul Sabiha Gökçen International Airport,SAW,LTFJ,40.898602,29.3092,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26496,Netaji Subhash Chandra Bose International Airport,Netaji Subhash Chandra Bose International Airport,CCU,VECC,22.654012,88.44765,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5689,Ninoy Aquino International Airport,Ninoy Aquino International Airport,MNL,RPLL,14.5086,121.019997,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27194,Guangzhou Baiyun International Airport,Guangzhou Baiyun International Airport,CAN,ZGGG,23.392401,113.299004,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27192,Tianjin Binhai International Airport,Tianjin Binhai International Airport,TSN,ZBTJ,39.124401092499994,117.346000671,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5257,Allama Iqbal International Airport,Allama Iqbal International Airport,LHE,OPLA,31.521601,74.403603,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-35145,Kempegowda International Airport Bengaluru,Kempegowda International Airport Bengaluru,BLR,VOBL,13.1979,77.706299,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27198,Shenzhen Bao'an International Airport,Shenzhen Bao'an International Airport,SZX,ZGSZ,22.639474,113.803262,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26618,Chennai International Airport,Chennai International Airport,MAA,VOMM,12.990005,80.169296,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26835,Soekarno-Hatta International Airport,Soekarno-Hatta International Airport,CGK,WIII,-6.12557,106.655998,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26832,Halim Perdanakusuma International Airport,Halim Perdanakusuma International Airport,HLP,WIHH,-6.266989,106.890318,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-28118,Suvarnabhumi Airport,Suvarnabhumi Airport,BKK,VTBS,13.6811,100.747002,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26638,Don Mueang International Airport,Don Mueang International Airport,DMK,VTBD,13.9126,100.607002,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-35141,Rajiv Gandhi International Airport,Rajiv Gandhi International Airport,HYD,VOHS,17.231318,78.429855,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5653,Incheon International Airport,Incheon International Airport,ICN,RKSI,37.469101,126.450996,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5656,Seoul Gimpo International Airport,Seoul Gimpo International Airport,GMP,RKSS,37.5583,126.791,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5576,Chubu Centrair International Airport,Chubu Centrair International Airport,NGO,RJGG,34.858398,136.804993,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5166,Imam Khomeini International Airport,Imam Khomeini International Airport,IKA,OIIE,35.416099548339844,51.152198791503906,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5168,Mehrabad International Airport,Mehrabad International Airport,THR,OIII,35.689175,51.314392,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27230,Chengdu Shuangliu International Airport,Chengdu Shuangliu International Airport,CTU,ZUUU,30.558257,103.945966,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-342095,Chengdu Tianfu International Airport,Chengdu Tianfu International Airport,TFU,ZUTF,30.31252,104.441284,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27221,Nanjing Lukou International Airport,Nanjing Lukou International Airport,NKG,ZSNJ,31.735032,118.865949,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27200,Wuhan Tianhe International Airport,Wuhan Tianhe International Airport,WUH,ZHHH,30.774798,114.213723,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26708,Tan Son Nhat International Airport,Tan Son Nhat International Airport,SGN,VVTS,10.8188,106.652,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26874,Kuala Lumpur International Airport,Kuala Lumpur International Airport,KUL,WMKK,2.74558,101.709999,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26879,Sultan Abdul Aziz Shah International Airport,Sultan Abdul Aziz Shah International Airport,SZB,WMSA,3.13058,101.549004,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27205,Xi'an Xianyang International Airport,Xi'an Xianyang International Airport,XIY,ZLXY,34.442207,108.762385,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26431,Sardar Vallabh Patel International Airport,Sardar Vallabh Patel International Airport,AMD,VAAH,23.0772,72.634697,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26535,Hong Kong International Airport,Hong Kong International Airport,HKG,VHHH,22.31184,113.914862,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26887,Singapore Changi Airport,Singapore Changi Airport,SIN,WSSS,1.35019,103.994003,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5289,Baghdad International Airport / New Al Muthana Air Base,Baghdad International Airport / New Al Muthana Air Base,BGW,ORBI,33.262501,44.2346,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5112,King Khalid International Airport,King Khalid International Airport,RUH,OERK,24.9576,46.698799,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5235,Dubai International Airport,Dubai International Airport,DXB,OMDB,25.24979,55.370992,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-300320,Al Maktoum International Airport,Al Maktoum International Airport,DWC,OMDW,24.896171,55.16235,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-44686,Hamad International Airport,Hamad International Airport,DOH,OTHH,25.273056,51.608056,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5220,Kuwait International Airport,Kuwait International Airport,KWI,OKKK,29.224487,47.969813,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4411,Ben Gurion International Airport,Ben Gurion International Airport,TLV,LLBG,32.011398,34.8867,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5528,Taiwan Taoyuan International Airport,Taiwan Taoyuan International Airport,TPE,RCTP,25.0777,121.233002,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5527,Taipei Songshan International Airport,Taipei Songshan International Airport,TSA,RCSS,25.067244,121.552822,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2434,London Heathrow Airport,London Heathrow Airport,LHR,EGLL,51.470748,-0.459909,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2429,London Gatwick Airport,London Gatwick Airport,LGW,EGKK,51.148744,-0.185739,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2476,London Stansted Airport,London Stansted Airport,STN,EGSS,51.884998,0.235,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2419,London Luton Airport,London Luton Airport,LTN,EGGW,51.874699,-0.368333,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2430,London City Airport,London City Airport,LCY,EGLC,51.505299,0.055278,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2435,London Southend Airport,London Southend Airport,SEN,EGMC,51.570562,0.693627,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4185,Charles de Gaulle International Airport,Charles de Gaulle International Airport,CDG,LFPG,49.00896,2.554117,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4189,Paris-Orly Airport,Paris-Orly Airport,ORY,LFPO,48.729499,2.358963,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4169,Beauvais-Tillé airport,Beauvais-Tillé airport,BVA,LFOB,49.454399,2.11278,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4019,Adolfo Suárez Madrid–Barajas Airport,Adolfo Suárez Madrid–Barajas Airport,MAD,LEMD,40.493407,-3.572249,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4004,Josep Tarradellas Barcelona-El Prat Airport,Josep Tarradellas Barcelona-El Prat Airport,BCN,LEBL,41.2971,2.07846,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-301881,Berlin Brandenburg Airport,Berlin Brandenburg Airport,BER,EDDB,52.361738,13.502341,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4372,Rome–Fiumicino Leonardo da Vinci International Airport,Rome–Fiumicino Leonardo da Vinci International Airport,FCO,LIRF,41.804532,12.251998,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4370,Ciampino–G. B. Pastine International Airport,Ciampino–G. B. Pastine International Airport,CIA,LIRA,41.798769,12.595331,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4340,Milan Malpensa International Airport,Milan Malpensa International Airport,MXP,LIMC,45.6306,8.72811,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4345,Milano Linate Airport,Milano Linate Airport,LIN,LIML,45.445099,9.27674,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4341,Il Caravaggio International Airport,Il Caravaggio International Airport,BGY,LIME,45.669362,9.708851,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26396,Sheremetyevo International Airport,Sheremetyevo International Airport,SVO,UUEE,55.976858,37.41121,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26394,Domodedovo International Airport,Domodedovo International Airport,DME,UUDD,55.408798,37.9063,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26401,Vnukovo International Airport,Vnukovo International Airport,VKO,UUWW,55.591499,37.261501,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-42967,Zhukovsky International Airport,Zhukovsky International Airport,ZIA,UUBW,55.553299,38.150002,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6489,Pulkovo Airport,Pulkovo Airport,LED,ULLI,59.800301,30.262501,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6467,Boryspil International Airport,Boryspil International Airport,KBP,UKBB,50.345001,30.894699,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6478,Igor Sikorsky Kyiv International Airport (Zhuliany),Igor Sikorsky Kyiv International Airport (Zhuliany),IEV,UKKK,50.40194,30.45194,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2637,Warsaw Chopin Airport,Warsaw Chopin Airport,WAW,EPWA,52.165699,20.9671,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2622,Warsaw Modlin Airport,Warsaw Modlin Airport,WMI,EPMO,52.451099,20.6518,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4408,Václav Havel Airport Prague,Václav Havel Airport Prague,PRG,LKPR,50.100874,14.259911,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4434,Vienna International Airport,Vienna International Airport,VIE,LOWW,48.110298,16.5697,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4296,Budapest Liszt Ferenc International Airport,Budapest Liszt Ferenc International Airport,BUD,LHBP,47.43018,19.262393,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4482,Bucharest Henri Coandă International Airport,Bucharest Henri Coandă International Airport,OTP,LROP,44.571792,26.103285,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4474,Bucharest Băneasa Aurel Vlaicu International Airport,Bucharest Băneasa Aurel Vlaicu International Airport,BBU,LRBS,44.503133,26.102944,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4251,Athens Eleftherios Venizelos International Airport,Athens Eleftherios Venizelos International Airport,ATH,LGAV,37.936401,23.9445,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4461,Lisbon Humberto Delgado Airport,Lisbon Humberto Delgado Airport,LIS,LPPT,38.7813,-9.13592,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4459,Francisco de Sá Carneiro Airport,Francisco de Sá Carneiro Airport,OPO,LPPR,41.2481002808,-8.68138980865,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2533,Dublin Airport,Dublin Airport,DUB,EIDW,53.428713,-6.262121,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2155,Brussels Airport,Brussels Airport,BRU,EBBR,50.901402,4.48444,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2157,Brussels South Charleroi Airport,Brussels South Charleroi Airport,CRL,EBCI,50.461963,4.459562,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2513,Amsterdam Airport Schiphol,Amsterdam Airport Schiphol,AMS,EHAM,52.308601,4.76389,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2524,Rotterdam The Hague Airport,Rotterdam The Hague Airport,RTM,EHRD,51.956902,4.43722,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2542,Copenhagen Kastrup Airport,Copenhagen Kastrup Airport,CPH,EKCH,55.617900848389,12.656000137329,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2701,Stockholm-Arlanda Airport,Stockholm-Arlanda Airport,ARN,ESSA,59.64849,17.928829,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2702,Stockholm-Bromma Airport,Stockholm-Bromma Airport,BMA,ESSB,59.354401,17.9417,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2578,Oslo-Gardermoen International Airport,Oslo-Gardermoen International Airport,OSL,ENGM,60.193901,11.1004,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2307,Helsinki Vantaa Airport,Helsinki Vantaa Airport,HEL,EFHK,60.318363,24.963341,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4505,Zürich Airport,Zürich Airport,ZRH,LSZH,47.458056,8.548056,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2218,Munich Airport,Munich Airport,MUC,EDDM,48.353802,11.7861,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2212,Frankfurt Main Airport,Frankfurt Main Airport,FRA,EDDF,50.026706,8.55835,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2214,Hamburg Helmut Schmidt Airport,Hamburg Helmut Schmidt Airport,HAM,EDDH,53.630402,9.98823,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2216,Cologne Bonn Airport,Cologne Bonn Airport,CGN,EDDK,50.865898,7.14274,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2398,Manchester Airport,Manchester Airport,MAN,EGCC,53.349375,-2.279521,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2389,Birmingham Airport,Birmingham Airport,BHX,EGBB,52.453899,-1.74803,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2461,Glasgow Airport,Glasgow Airport,GLA,EGPF,55.871899,-4.43306,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2464,Glasgow Prestwick Airport,Glasgow Prestwick Airport,PIK,EGPK,55.501499,-4.577182,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2462,Edinburgh Airport,Edinburgh Airport,EDI,EGPH,55.950145,-3.372288,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4610,Belgrade Nikola Tesla Airport,Belgrade Nikola Tesla Airport,BEG,LYBE,44.818401,20.309099,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3993,Zagreb Franjo Tuđman International Airport,Zagreb Franjo Tuđman International Airport,ZAG,LDZA,45.742901,16.0688,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4469,Sarajevo International Airport,Sarajevo International Airport,SJJ,LQSA,43.8246,18.331499,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4573,Skopje International Airport,Skopje International Airport,SKP,LWSK,41.958087,21.622581,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3972,Tirana International Airport Mother Teresa,Tirana International Airport Mother Teresa,TIA,LATI,41.4147,19.7206,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3183,Cairo International Airport,Cairo International Airport,CAI,HECA,30.111534,31.396694,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-335334,Sphinx International Airport,Sphinx International Airport,SPX,HESX,30.108179,30.895728,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2118,Murtala Muhammed International Airport,Murtala Muhammed International Airport,LOS,DNMM,6.57737,3.32116,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3040,Ndjili International Airport,Ndjili International Airport,FIH,FZAA,-4.38575,15.4446,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-31055,O.R. Tambo International Airport,O.R. Tambo International Airport,JNB,FAOR,-26.140081,28.246801,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2800,Lanseria International Airport,Lanseria International Airport,HLA,FALA,-25.938964,27.926642,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2942,Quatro de Fevereiro International Airport,Quatro de Fevereiro International Airport,LAD,FNLU,-8.85837,13.2312,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3249,Khartoum International Airport,Khartoum International Airport,KRT,HSSK,15.5895,32.5532,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3251,Julius Nyerere International Airport,Julius Nyerere International Airport,DAR,HTDA,-6.873499,39.207288,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3180,Alexandria International Airport,Alexandria International Airport,HBE,HEAX,30.93249,29.696437,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2096,Félix-Houphouët-Boigny International Airport,Félix-Houphouët-Boigny International Airport,ABJ,DIAP,5.26139,-3.92629,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3206,Jomo Kenyatta International Airport,Jomo Kenyatta International Airport,NBO,HKJK,-1.318886,36.928233,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3215,Nairobi Wilson Airport,Nairobi Wilson Airport,WIL,HKNW,-1.32172,36.8148,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3113,Mohammed V International Airport,Mohammed V International Airport,CMN,GMMN,33.3675,-7.58997,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2090,Kotoka International Airport,Kotoka International Airport,ACC,DGAA,5.605189800262451,-0.16678600013256073,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3157,Addis Ababa Bole International Airport,Addis Ababa Bole International Airport,ADD,HAAB,8.97789,38.799301,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-325736,Blaise Diagne International Airport,Blaise Diagne International Airport,DSS,GOBD,14.670878,-17.072829,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3263,Entebbe International Airport,Entebbe International Airport,EBB,HUEN,0.042386,32.443501,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2975,Maputo Airport,Maputo Airport,MPM,FQMA,-25.920799,32.572601,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2050,Houari Boumediene Airport,Houari Boumediene Airport,ALG,DAAG,36.693886,3.214531,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2133,Tunis Carthage International Airport,Tunis Carthage International Airport,TUN,DTTA,36.851002,10.2272,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3109,Rabat-Salé Airport,Rabat-Salé Airport,RBA,GMME,34.051498,-6.75152,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3005,Robert Gabriel Mugabe International Airport,Robert Gabriel Mugabe International Airport,HRE,FVRG,-17.931801,31.0928,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2894,Kenneth Kaunda International Airport,Kenneth Kaunda International Airport,LUN,FLKK,-15.330833,28.452722,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2864,Sir Seretse Khama International Airport,Sir Seretse Khama International Airport,GBE,FBSK,-24.555201,25.9182,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3039,Hosea Kutako International Airport,Hosea Kutako International Airport,WDH,FYWH,-22.4799,17.4709,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2908,Ivato International Airport,Ivato International Airport,TNR,FMMI,-18.7969,47.478802,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-2878,Sir Seewoosagur Ramgoolam International Airport,Sir Seewoosagur Ramgoolam International Airport,MRU,FIMP,-20.430201,57.683601,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3622,John F. Kennedy International Airport,John F. Kennedy International Airport,JFK,KJFK,40.639447,-73.779317,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3643,LaGuardia Airport,LaGuardia Airport,LGA,KLGA,40.777199,-73.872597,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3521,Newark Liberty International Airport,Newark Liberty International Airport,EWR,KEWR,40.6894,-74.170545,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3632,Los Angeles International Airport,Los Angeles International Airport,LAX,KLAX,33.942501,-118.407997,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3432,Hollywood Burbank/Bob Hope Airport,Hollywood Burbank/Bob Hope Airport,BUR,KBUR,34.202834,-118.35805,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3894,John Wayne Orange County International Airport,John Wayne Orange County International Airport,SNA,KSNA,33.675063,-117.869281,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3752,Ontario International Airport,Ontario International Airport,ONT,KONT,34.056,-117.600998,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3754,Chicago O'Hare International Airport,Chicago O'Hare International Airport,ORD,KORD,41.9786,-87.9048,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3673,Chicago Midway International Airport,Chicago Midway International Airport,MDW,KMDW,41.785999,-87.752403,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3488,Dallas Fort Worth International Airport,Dallas Fort Worth International Airport,DFW,KDFW,32.896801,-97.038002,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3479,Dallas Love Field,Dallas Love Field,DAL,KDAL,32.844776,-96.847653,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3604,George Bush Intercontinental Airport,George Bush Intercontinental Airport,IAH,KIAH,29.9844,-95.3414,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3588,William P. Hobby Airport,William P. Hobby Airport,HOU,KHOU,29.645336,-95.276812,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3602,Washington Dulles International Airport,Washington Dulles International Airport,IAD,KIAD,38.9445,-77.455803,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3483,Ronald Reagan Washington National Airport,Ronald Reagan Washington National Airport,DCA,KDCA,38.8521,-77.037697,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3435,Baltimore/Washington International Thurgood Marshall Airport,Baltimore/Washington International Thurgood Marshall Airport,BWI,KBWI,39.1754,-76.668297,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3685,Miami International Airport,Miami International Airport,MIA,KMIA,25.796011,-80.289751,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3531,Fort Lauderdale Hollywood International Airport,Fort Lauderdale Hollywood International Airport,FLL,KFLL,26.072599,-80.152702,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3384,Hartsfield Jackson Atlanta International Airport,Hartsfield Jackson Atlanta International Airport,ATL,KATL,33.6367,-84.428101,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3422,Boston Logan International Airport,Boston Logan International Airport,BOS,KBOS,42.36197,-71.0079,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3878,San Francisco International Airport,San Francisco International Airport,SFO,KSFO,37.619806,-122.374821,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3744,Oakland San Francisco Bay Airport,Oakland San Francisco Bay Airport,OAK,KOAK,37.720085,-122.221184,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3883,Mineta San Jose International Airport,Mineta San Jose International Airport,SJC,KSJC,37.362452,-121.929188,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3875,Seattle–Tacoma International Airport,Seattle–Tacoma International Airport,SEA,KSEA,47.447943,-122.310276,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-3771,Philadelphia International Airport,Philadelphia International Airport,PHL,KPHL,39.871899,-75.241096,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-1990,Toronto Pearson International Airport,Toronto Pearson International Airport,YYZ,CYYZ,43.675935,-79.629421,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-1926,Billy Bishop Toronto City Airport,Billy Bishop Toronto City Airport,YTZ,CYTZ,43.627852,-79.39553,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-1928,Montreal / Pierre Elliott Trudeau International Airport,Montreal / Pierre Elliott Trudeau International Airport,YUL,CYUL,45.467837,-73.742294,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-1941,Vancouver International Airport,Vancouver International Airport,YVR,CYVR,49.193901,-123.183998,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4731,Mexico City Benito Juárez International Airport,Mexico City Benito Juárez International Airport,MEX,MMMX,19.435822,-99.07033,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-31923,Felipe Ángeles International Airport,Felipe Ángeles International Airport,NLU,MMSM,19.743824,-99.01507,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4710,Guadalajara International Airport,Guadalajara International Airport,GDL,MMGL,20.523342,-103.310108,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4732,Monterrey International Airport,Monterrey International Airport,MTY,MMMY,25.778521,-100.106989,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4839,José Martí International Airport,José Martí International Airport,HAV,MUHA,22.989200592041016,-82.40910339355469,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4793,Tocumen International Airport,Tocumen International Airport,PTY,MPTO,9.07136,-79.383499,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4791,Marcos A. Gelabert International Airport,Marcos A. Gelabert International Airport,PAC,MPMG,8.97334,-79.555603,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5910,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,GRU,SBGR,-23.431274,-46.469954,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5974,Congonhas–Deputado Freitas Nobre Airport,Congonhas–Deputado Freitas Nobre Airport,CGH,SBSP,-23.627657,-46.654601,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5927,Viracopos International Airport,Viracopos International Airport,VCP,SBKP,-23.007404,-47.134502,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5781,Ezeiza International Airport - Ministro Pistarini,Ezeiza International Airport - Ministro Pistarini,EZE,SAEZ,-34.8222,-58.5358,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5771,Aeroparque Jorge Newbery,Aeroparque Jorge Newbery,AEP,SABE,-34.559419,-58.415536,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5906,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio de Janeiro Galeão – Tom Jobim International Airport,GIG,SBGL,-22.809999,-43.250557,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5967,Santos Dumont Airport,Santos Dumont Airport,SDU,SBRJ,-22.910397,-43.16282,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6217,Jorge Chávez International Airport,Jorge Chávez International Airport,LIM,SPJC,-12.0219,-77.114305,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6104,El Dorado International Airport,El Dorado International Airport,BOG,SKBO,4.70159,-74.1469,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6015,Comodoro Arturo Merino Benítez International Airport,Comodoro Arturo Merino Benítez International Airport,SCL,SCEL,-33.393001556396484,-70.78579711914062,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6300,Maiquetía Simón Bolívar International Airport,Maiquetía Simón Bolívar International Airport,CCS,SVMI,10.602214,-66.991174,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5882,Tancredo Neves International Airport,Tancredo Neves International Airport,CNF,SBCF,-19.63571,-43.966928,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5869,Pampulha - Carlos Drummond de Andrade Airport,Pampulha - Carlos Drummond de Andrade Airport,PLU,SBBH,-19.85074,-43.950316,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5872,Presidente Juscelino Kubitschek International Airport,Presidente Juscelino Kubitschek International Airport,BSB,SBBR,-15.869167,-47.920834,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5977,Deputado Luiz Eduardo Magalhães International Airport,Deputado Luiz Eduardo Magalhães International Airport,SSA,SBSV,-12.908611,-38.322498,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5965,Recife/Guararapes - Gilberto Freyre International Airport,Recife/Guararapes - Gilberto Freyre International Airport,REC,SBRF,-8.12747,-34.922961,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6158,Jose Maria Córdova International Airport,Jose Maria Córdova International Airport,MDE,SKRG,6.16454,-75.4231,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6132,Enrique Olaya Herrera Airport,Enrique Olaya Herrera Airport,EOH,SKMD,6.219686,-75.590597,medium_airport,ourairports-2026-09-14,2026-09-14
-ourairports-308273,Mariscal Sucre International Airport,Mariscal Sucre International Airport,UIO,SEQM,-0.125399,-78.354306,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6056,José Joaquín de Olmedo International Airport,José Joaquín de Olmedo International Airport,GYE,SEGU,-2.15742,-79.883598,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-6247,Carrasco General Cesáreo L. Berisso International Airport,Carrasco General Cesáreo L. Berisso International Airport,MVD,SUMU,-34.835647,-56.026497,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27145,Sydney Kingsford Smith International Airport,Sydney Kingsford Smith International Airport,SYD,YSSY,-33.946098,151.177002,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27066,Melbourne Airport,Melbourne Airport,MEL,YMML,-37.670732,144.837898,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27043,Melbourne Avalon International Airport,Melbourne Avalon International Airport,AVV,YMAV,-38.040269,144.467196,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-26901,Brisbane International Airport,Brisbane International Airport,BNE,YBBN,-27.384199142456055,153.11700439453125,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27119,Perth International Airport,Perth International Airport,PER,YPPH,-31.94029998779297,115.96700286865234,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-27096,Adelaide International Airport,Adelaide International Airport,ADL,YPAD,-34.947512,138.533393,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5023,Auckland International Airport,Auckland International Airport,AKL,NZAA,-37.01199,174.786331,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5063,Wellington International Airport,Wellington International Airport,WLG,NZWN,-41.326839,174.806862,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5026,Christchurch International Airport,Christchurch International Airport,CHC,NZCH,-43.489029,172.532065,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-5453,Daniel K. Inouye International Airport,Daniel K. Inouye International Airport,HNL,PHNL,21.318387,-157.92567,large_airport,ourairports-2026-09-14,2026-09-14
-ourairports-4960,Nausori International Airport,Nausori International Airport,SUV,NFNA,-18.044226,178.561486,large_airport,ourairports-2026-09-14,2026-09-14
+airport_id,airport_name,airport_name_es,iata,icao,latitude,longitude,airport_type,annual_passengers_m,passenger_year,passenger_source_id,coordinate_source_id,reviewed_at
+ourairports-5627,Tokyo Haneda International Airport,Tokyo Haneda International Airport,HND,RJTT,35.549678,139.786958,large_airport,91.679814,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-5531,Narita International Airport,Narita International Airport,NRT,RJAA,35.76858,140.388714,large_airport,39.807651,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26555,Indira Gandhi International Airport,Indira Gandhi International Airport,DEL,VIDP,28.55563,77.09519,large_airport,78.148081,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-27223,Shanghai Pudong International Airport,Shanghai Pudong International Airport,PVG,ZSPD,31.1434,121.805,large_airport,84.994548,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-27225,Shanghai Hongqiao International Airport,Shanghai Hongqiao International Airport,SHA,ZSSS,31.198104,121.33426,large_airport,50.151025,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26534,Hazrat Shahjalal International Airport,Hazrat Shahjalal International Airport,DAC,VGHS,23.843347,90.397783,large_airport,8.898,2018,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27188,Beijing Capital International Airport,Beijing Capital International Airport,PEK,ZBAA,40.077349,116.596702,large_airport,70.742712,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-330820,Beijing Daxing International Airport,Beijing Daxing International Airport,PKX,ZBAD,39.501289,116.413967,large_airport,53.6184,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26434,Chhatrapati Shivaji Maharaj International Airport,Chhatrapati Shivaji Maharaj International Airport,BOM,VABB,19.088699,72.867897,large_airport,47.204259,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5536,Kansai International Airport,Kansai International Airport,KIX,RJBB,34.427299,135.244003,large_airport,30.598651,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5598,Osaka Itami International Airport,Osaka Itami International Airport,ITM,RJOO,34.780853,135.440829,large_airport,15.157501,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5255,Jinnah International Airport,Jinnah International Airport,KHI,OPKC,24.9065,67.160797,large_airport,7.267582,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27228,Chongqing Jiangbei International Airport,Chongqing Jiangbei International Airport,CKG,ZUCK,29.712254,106.651895,large_airport,21.673547,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-317457,İstanbul Airport,İstanbul Airport,IST,LTFM,41.274874,28.732136,large_airport,84.43771,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-4569,Istanbul Sabiha Gökçen International Airport,Istanbul Sabiha Gökçen International Airport,SAW,LTFJ,40.898602,29.3092,large_airport,48.420757,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26496,Netaji Subhash Chandra Bose International Airport,Netaji Subhash Chandra Bose International Airport,CCU,VECC,22.654012,88.44765,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-5689,Ninoy Aquino International Airport,Ninoy Aquino International Airport,MNL,RPLL,14.5086,121.019997,large_airport,50.356465,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27194,Guangzhou Baiyun International Airport,Guangzhou Baiyun International Airport,CAN,ZGGG,23.392401,113.299004,large_airport,83.582952,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-27192,Tianjin Binhai International Airport,Tianjin Binhai International Airport,TSN,ZBTJ,39.124401092499994,117.346000671,large_airport,5.84168,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5257,Allama Iqbal International Airport,Allama Iqbal International Airport,LHE,OPLA,31.521601,74.403603,large_airport,4.490182,2018,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-35145,Kempegowda International Airport Bengaluru,Kempegowda International Airport Bengaluru,BLR,VOBL,13.1979,77.706299,large_airport,41.87562,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27198,Shenzhen Bao'an International Airport,Shenzhen Bao'an International Airport,SZX,ZGSZ,22.639474,113.803262,large_airport,66.485213,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-26618,Chennai International Airport,Chennai International Airport,MAA,VOMM,12.990005,80.169296,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-26835,Soekarno-Hatta International Airport,Soekarno-Hatta International Airport,CGK,WIII,-6.12557,106.655998,large_airport,54.8095,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26832,Halim Perdanakusuma International Airport,Halim Perdanakusuma International Airport,HLP,WIHH,-6.266989,106.890318,large_airport,7.4,2018,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-28118,Suvarnabhumi Airport,Suvarnabhumi Airport,BKK,VTBS,13.6811,100.747002,large_airport,62.902183,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26638,Don Mueang International Airport,Don Mueang International Airport,DMK,VTBD,13.9126,100.607002,large_airport,31.65,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-35141,Rajiv Gandhi International Airport,Rajiv Gandhi International Airport,HYD,VOHS,17.231318,78.429855,large_airport,19.042499,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5653,Incheon International Airport,Incheon International Airport,ICN,RKSI,37.469101,126.450996,large_airport,74.126912,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-5656,Seoul Gimpo International Airport,Seoul Gimpo International Airport,GMP,RKSS,37.5583,126.791,large_airport,24.524065,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5576,Chubu Centrair International Airport,Chubu Centrair International Airport,NGO,RJGG,34.858398,136.804993,large_airport,10.616189,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5166,Imam Khomeini International Airport,Imam Khomeini International Airport,IKA,OIIE,35.416099548339844,51.152198791503906,large_airport,7.672152,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5168,Mehrabad International Airport,Mehrabad International Airport,THR,OIII,35.689175,51.314392,large_airport,14.931798,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27230,Chengdu Shuangliu International Airport,Chengdu Shuangliu International Airport,CTU,ZUUU,30.558257,103.945966,large_airport,33.518945,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-342095,Chengdu Tianfu International Airport,Chengdu Tianfu International Airport,TFU,ZUTF,30.31252,104.441284,large_airport,54.905784,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27221,Nanjing Lukou International Airport,Nanjing Lukou International Airport,NKG,ZSNJ,31.735032,118.865949,large_airport,31.378166,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27200,Wuhan Tianhe International Airport,Wuhan Tianhe International Airport,WUH,ZHHH,30.774798,114.213723,large_airport,11.606393,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26708,Tan Son Nhat International Airport,Tan Son Nhat International Airport,SGN,VVTS,10.8188,106.652,large_airport,39.859384,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26874,Kuala Lumpur International Airport,Kuala Lumpur International Airport,KUL,WMKK,2.74558,101.709999,large_airport,63.409501,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-26879,Sultan Abdul Aziz Shah International Airport,Sultan Abdul Aziz Shah International Airport,SZB,WMSA,3.13058,101.549004,large_airport,0.571913,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27205,Xi'an Xianyang International Airport,Xi'an Xianyang International Airport,XIY,ZLXY,34.442207,108.762385,large_airport,13.558364,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26431,Sardar Vallabh Patel International Airport,Sardar Vallabh Patel International Airport,AMD,VAAH,23.0772,72.634697,large_airport,10.665822,2018,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26535,Hong Kong International Airport,Hong Kong International Airport,HKG,VHHH,22.31184,113.914862,large_airport,53.055,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26887,Singapore Changi Airport,Singapore Changi Airport,SIN,WSSS,1.35019,103.994003,large_airport,69.982,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-5289,Baghdad International Airport / New Al Muthana Air Base,Baghdad International Airport / New Al Muthana Air Base,BGW,ORBI,33.262501,44.2346,large_airport,3.797413,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5112,King Khalid International Airport,King Khalid International Airport,RUH,OERK,24.9576,46.698799,large_airport,18.933989,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5235,Dubai International Airport,Dubai International Airport,DXB,OMDB,25.24979,55.370992,large_airport,95.19216,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-300320,Al Maktoum International Airport,Al Maktoum International Airport,DWC,OMDW,24.896171,55.16235,large_airport,1.1,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-44686,Hamad International Airport,Hamad International Airport,DOH,OTHH,25.273056,51.608056,large_airport,35.734243,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5220,Kuwait International Airport,Kuwait International Airport,KWI,OKKK,29.224487,47.969813,large_airport,15.448909,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4411,Ben Gurion International Airport,Ben Gurion International Airport,TLV,LLBG,32.011398,34.8867,large_airport,20.008532,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5528,Taiwan Taoyuan International Airport,Taiwan Taoyuan International Airport,TPE,RCTP,25.0777,121.233002,large_airport,47.795969,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5527,Taipei Songshan International Airport,Taipei Songshan International Airport,TSA,RCSS,25.067244,121.552822,large_airport,1.701698,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2434,London Heathrow Airport,London Heathrow Airport,LHR,EGLL,51.470748,-0.459909,large_airport,84.482126,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-2429,London Gatwick Airport,London Gatwick Airport,LGW,EGKK,51.148744,-0.185739,large_airport,40.899,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2476,London Stansted Airport,London Stansted Airport,STN,EGSS,51.884998,0.235,large_airport,23.319523,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2419,London Luton Airport,London Luton Airport,LTN,EGGW,51.874699,-0.368333,large_airport,13.322236,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2430,London City Airport,London City Airport,LCY,EGLC,51.505299,0.055278,medium_airport,3.009313,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2435,London Southend Airport,London Southend Airport,SEN,EGMC,51.570562,0.693627,medium_airport,0.719513,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4185,Charles de Gaulle International Airport,Charles de Gaulle International Airport,CDG,LFPG,49.00896,2.554117,large_airport,72.029407,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-4189,Paris-Orly Airport,Paris-Orly Airport,ORY,LFPO,48.729499,2.358963,large_airport,32.294167,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4169,Beauvais-Tillé airport,Beauvais-Tillé airport,BVA,LFOB,49.454399,2.11278,large_airport,4.614424,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4019,Adolfo Suárez Madrid–Barajas Airport,Adolfo Suárez Madrid–Barajas Airport,MAD,LEMD,40.493407,-3.572249,large_airport,68.179054,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4004,Josep Tarradellas Barcelona-El Prat Airport,Josep Tarradellas Barcelona-El Prat Airport,BCN,LEBL,41.2971,2.07846,large_airport,57.483036,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-301881,Berlin Brandenburg Airport,Berlin Brandenburg Airport,BER,EDDB,52.361738,13.502341,large_airport,25.465872,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4372,Rome–Fiumicino Leonardo da Vinci International Airport,Rome–Fiumicino Leonardo da Vinci International Airport,FCO,LIRF,41.804532,12.251998,large_airport,51.306744,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4370,Ciampino–G. B. Pastine International Airport,Ciampino–G. B. Pastine International Airport,CIA,LIRA,41.798769,12.595331,large_airport,3.475902,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4340,Milan Malpensa International Airport,Milan Malpensa International Airport,MXP,LIMC,45.6306,8.72811,large_airport,31.385585,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4345,Milano Linate Airport,Milano Linate Airport,LIN,LIML,45.445099,9.27674,large_airport,11.131764,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4341,Il Caravaggio International Airport,Il Caravaggio International Airport,BGY,LIME,45.669362,9.708851,large_airport,16.937976,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26396,Sheremetyevo International Airport,Sheremetyevo International Airport,SVO,UUEE,55.976858,37.41121,large_airport,43.13,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26394,Domodedovo International Airport,Domodedovo International Airport,DME,UUDD,55.408798,37.9063,large_airport,13.86,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-26401,Vnukovo International Airport,Vnukovo International Airport,VKO,UUWW,55.591499,37.261501,large_airport,16.4,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-42967,Zhukovsky International Airport,Zhukovsky International Airport,ZIA,UUBW,55.553299,38.150002,large_airport,1.49,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6489,Pulkovo Airport,Pulkovo Airport,LED,ULLI,59.800301,30.262501,large_airport,20.7,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6467,Boryspil International Airport,Boryspil International Airport,KBP,UKBB,50.345001,30.894699,large_airport,9.433,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6478,Igor Sikorsky Kyiv International Airport (Zhuliany),Igor Sikorsky Kyiv International Airport (Zhuliany),IEV,UKKK,50.40194,30.45194,medium_airport,1.418153,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2637,Warsaw Chopin Airport,Warsaw Chopin Airport,WAW,EPWA,52.165699,20.9671,large_airport,21.261806,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2622,Warsaw Modlin Airport,Warsaw Modlin Airport,WMI,EPMO,52.451099,20.6518,large_airport,3.126428,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4408,Václav Havel Airport Prague,Václav Havel Airport Prague,PRG,LKPR,50.100874,14.259911,large_airport,17.750528,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4434,Vienna International Airport,Vienna International Airport,VIE,LOWW,48.110298,16.5697,large_airport,32.559115,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4296,Budapest Liszt Ferenc International Airport,Budapest Liszt Ferenc International Airport,BUD,LHBP,47.43018,19.262393,large_airport,17.574413,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4482,Bucharest Henri Coandă International Airport,Bucharest Henri Coandă International Airport,OTP,LROP,44.571792,26.103285,large_airport,17.001578,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4474,Bucharest Băneasa Aurel Vlaicu International Airport,Bucharest Băneasa Aurel Vlaicu International Airport,BBU,LRBS,44.503133,26.102944,large_airport,0.107087,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4251,Athens Eleftherios Venizelos International Airport,Athens Eleftherios Venizelos International Airport,ATH,LGAV,37.936401,23.9445,large_airport,22.72875,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4461,Lisbon Humberto Delgado Airport,Lisbon Humberto Delgado Airport,LIS,LPPT,38.7813,-9.13592,large_airport,9.261,2020,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4459,Francisco de Sá Carneiro Airport,Francisco de Sá Carneiro Airport,OPO,LPPR,41.2481002808,-8.68138980865,large_airport,4.433,2020,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2533,Dublin Airport,Dublin Airport,DUB,EIDW,53.428713,-6.262121,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-2155,Brussels Airport,Brussels Airport,BRU,EBBR,50.901402,4.48444,large_airport,18.930698,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2157,Brussels South Charleroi Airport,Brussels South Charleroi Airport,CRL,EBCI,50.461963,4.459562,large_airport,8.272,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2513,Amsterdam Airport Schiphol,Amsterdam Airport Schiphol,AMS,EHAM,52.308601,4.76389,large_airport,68.771592,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-2524,Rotterdam The Hague Airport,Rotterdam The Hague Airport,RTM,EHRD,51.956902,4.43722,large_airport,2.133708,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2542,Copenhagen Kastrup Airport,Copenhagen Kastrup Airport,CPH,EKCH,55.617900848389,12.656000137329,large_airport,22.143135,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2701,Stockholm-Arlanda Airport,Stockholm-Arlanda Airport,ARN,ESSA,59.64849,17.928829,large_airport,18.387268,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2702,Stockholm-Bromma Airport,Stockholm-Bromma Airport,BMA,ESSB,59.354401,17.9417,medium_airport,1.119102,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2578,Oslo-Gardermoen International Airport,Oslo-Gardermoen International Airport,OSL,ENGM,60.193901,11.1004,large_airport,22.46751,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2307,Helsinki Vantaa Airport,Helsinki Vantaa Airport,HEL,EFHK,60.318363,24.963341,large_airport,16.308814,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4505,Zürich Airport,Zürich Airport,ZRH,LSZH,47.458056,8.548056,large_airport,32.593966,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2218,Munich Airport,Munich Airport,MUC,EDDM,48.353802,11.7861,large_airport,41.568,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2212,Frankfurt Main Airport,Frankfurt Main Airport,FRA,EDDF,50.026706,8.55835,large_airport,61.564957,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2214,Hamburg Helmut Schmidt Airport,Hamburg Helmut Schmidt Airport,HAM,EDDH,53.630402,9.98823,large_airport,14.831711,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2216,Cologne Bonn Airport,Cologne Bonn Airport,CGN,EDDK,50.865898,7.14274,large_airport,8.756712,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2398,Manchester Airport,Manchester Airport,MAN,EGCC,53.349375,-2.279521,large_airport,23.36977,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2389,Birmingham Airport,Birmingham Airport,BHX,EGBB,52.453899,-1.74803,large_airport,9.595557,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2461,Glasgow Airport,Glasgow Airport,GLA,EGPF,55.871899,-4.43306,large_airport,6.516029,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2464,Glasgow Prestwick Airport,Glasgow Prestwick Airport,PIK,EGPK,55.501499,-4.577182,large_airport,0.444433,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2462,Edinburgh Airport,Edinburgh Airport,EDI,EGPH,55.950145,-3.372288,large_airport,11.261873,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4610,Belgrade Nikola Tesla Airport,Belgrade Nikola Tesla Airport,BEG,LYBE,44.818401,20.309099,large_airport,8.367931,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3993,Zagreb Franjo Tuđman International Airport,Zagreb Franjo Tuđman International Airport,ZAG,LDZA,45.742901,16.0688,large_airport,3.124605,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4469,Sarajevo International Airport,Sarajevo International Airport,SJJ,LQSA,43.8246,18.331499,large_airport,1.377348,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4573,Skopje International Airport,Skopje International Airport,SKP,LWSK,41.958087,21.622581,large_airport,2.883378,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3972,Tirana International Airport Mother Teresa,Tirana International Airport Mother Teresa,TIA,LATI,41.4147,19.7206,large_airport,7.257634,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3183,Cairo International Airport,Cairo International Airport,CAI,HECA,30.111534,31.396694,large_airport,31.137557,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-335334,Sphinx International Airport,Sphinx International Airport,SPX,HESX,30.108179,30.895728,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-2118,Murtala Muhammed International Airport,Murtala Muhammed International Airport,LOS,DNMM,6.57737,3.32116,large_airport,5.689234,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3040,Ndjili International Airport,Ndjili International Airport,FIH,FZAA,-4.38575,15.4446,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-31055,O.R. Tambo International Airport,O.R. Tambo International Airport,JNB,FAOR,-26.140081,28.246801,large_airport,21.237208,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2800,Lanseria International Airport,Lanseria International Airport,HLA,FALA,-25.938964,27.926642,large_airport,1.9,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2942,Quatro de Fevereiro International Airport,Quatro de Fevereiro International Airport,LAD,FNLU,-8.85837,13.2312,large_airport,2.430794,2009,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3249,Khartoum International Airport,Khartoum International Airport,KRT,HSSK,15.5895,32.5532,large_airport,3.492097,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3251,Julius Nyerere International Airport,Julius Nyerere International Airport,DAR,HTDA,-6.873499,39.207288,large_airport,2.472885,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3180,Alexandria International Airport,Alexandria International Airport,HBE,HEAX,30.93249,29.696437,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-2096,Félix-Houphouët-Boigny International Airport,Félix-Houphouët-Boigny International Airport,ABJ,DIAP,5.26139,-3.92629,large_airport,1.647832,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3206,Jomo Kenyatta International Airport,Jomo Kenyatta International Airport,NBO,HKJK,-1.318886,36.928233,large_airport,1.942,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3215,Nairobi Wilson Airport,Nairobi Wilson Airport,WIL,HKNW,-1.32172,36.8148,medium_airport,0.854,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3113,Mohammed V International Airport,Mohammed V International Airport,CMN,GMMN,33.3675,-7.58997,large_airport,7.637643,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2090,Kotoka International Airport,Kotoka International Airport,ACC,DGAA,5.605189800262451,-0.16678600013256073,large_airport,2.805347,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3157,Addis Ababa Bole International Airport,Addis Ababa Bole International Airport,ADD,HAAB,8.97789,38.799301,large_airport,13.134076,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-325736,Blaise Diagne International Airport,Blaise Diagne International Airport,DSS,GOBD,14.670878,-17.072829,large_airport,1.957877,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3263,Entebbe International Airport,Entebbe International Airport,EBB,HUEN,0.042386,32.443501,large_airport,2.00823,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2975,Maputo Airport,Maputo Airport,MPM,FQMA,-25.920799,32.572601,large_airport,0.59,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2050,Houari Boumediene Airport,Houari Boumediene Airport,ALG,DAAG,36.693886,3.214531,large_airport,7.975412,2018,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2133,Tunis Carthage International Airport,Tunis Carthage International Airport,TUN,DTTA,36.851002,10.2272,large_airport,6.441886,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3109,Rabat-Salé Airport,Rabat-Salé Airport,RBA,GMME,34.051498,-6.75152,large_airport,0.873305,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3005,Robert Gabriel Mugabe International Airport,Robert Gabriel Mugabe International Airport,HRE,FVRG,-17.931801,31.0928,large_airport,1.657622,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2894,Kenneth Kaunda International Airport,Kenneth Kaunda International Airport,LUN,FLKK,-15.330833,28.452722,large_airport,0.925077,2012,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2864,Sir Seretse Khama International Airport,Sir Seretse Khama International Airport,GBE,FBSK,-24.555201,25.9182,large_airport,0.407813,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3039,Hosea Kutako International Airport,Hosea Kutako International Airport,WDH,FYWH,-22.4799,17.4709,large_airport,0.253711,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2908,Ivato International Airport,Ivato International Airport,TNR,FMMI,-18.7969,47.478802,large_airport,0.890591,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-2878,Sir Seewoosagur Ramgoolam International Airport,Sir Seewoosagur Ramgoolam International Airport,MRU,FIMP,-20.430201,57.683601,large_airport,3.884056,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3622,John F. Kennedy International Airport,John F. Kennedy International Airport,JFK,KJFK,40.639447,-73.779317,large_airport,62.440306,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3643,LaGuardia Airport,LaGuardia Airport,LGA,KLGA,40.777199,-73.872597,large_airport,32.79105,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3521,Newark Liberty International Airport,Newark Liberty International Airport,EWR,KEWR,40.6894,-74.170545,large_airport,49.160546,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3632,Los Angeles International Airport,Los Angeles International Airport,LAX,KLAX,33.942501,-118.407997,large_airport,73.709594,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-3432,Hollywood Burbank/Bob Hope Airport,Hollywood Burbank/Bob Hope Airport,BUR,KBUR,34.202834,-118.35805,large_airport,6.034729,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3894,John Wayne Orange County International Airport,John Wayne Orange County International Airport,SNA,KSNA,33.675063,-117.869281,large_airport,11.369865,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3752,Ontario International Airport,Ontario International Airport,ONT,KONT,34.056,-117.600998,large_airport,6.430033,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3754,Chicago O'Hare International Airport,Chicago O'Hare International Airport,ORD,KORD,41.9786,-87.9048,large_airport,84.856018,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-3673,Chicago Midway International Airport,Chicago Midway International Airport,MDW,KMDW,41.785999,-87.752403,large_airport,19.37994,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3488,Dallas Fort Worth International Airport,Dallas Fort Worth International Airport,DFW,KDFW,32.896801,-97.038002,large_airport,85.660127,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-3479,Dallas Love Field,Dallas Love Field,DAL,KDAL,32.844776,-96.847653,large_airport,16.899203,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3604,George Bush Intercontinental Airport,George Bush Intercontinental Airport,IAH,KIAH,29.9844,-95.3414,large_airport,48.131213,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3588,William P. Hobby Airport,William P. Hobby Airport,HOU,KHOU,29.645336,-95.276812,large_airport,13.908466,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3602,Washington Dulles International Airport,Washington Dulles International Airport,IAD,KIAD,38.9445,-77.455803,large_airport,27.254087,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3483,Ronald Reagan Washington National Airport,Ronald Reagan Washington National Airport,DCA,KDCA,38.8521,-77.037697,large_airport,24.889473,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3435,Baltimore/Washington International Thurgood Marshall Airport,Baltimore/Washington International Thurgood Marshall Airport,BWI,KBWI,39.1754,-76.668297,large_airport,25.21552,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3685,Miami International Airport,Miami International Airport,MIA,KMIA,25.796011,-80.289751,large_airport,55.314661,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3531,Fort Lauderdale Hollywood International Airport,Fort Lauderdale Hollywood International Airport,FLL,KFLL,26.072599,-80.152702,large_airport,32.208419,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3384,Hartsfield Jackson Atlanta International Airport,Hartsfield Jackson Atlanta International Airport,ATL,KATL,33.6367,-84.428101,large_airport,106.302208,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-3422,Boston Logan International Airport,Boston Logan International Airport,BOS,KBOS,42.36197,-71.0079,large_airport,43.236013,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3878,San Francisco International Airport,San Francisco International Airport,SFO,KSFO,37.619806,-122.374821,large_airport,54.532613,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3744,Oakland San Francisco Bay Airport,Oakland San Francisco Bay Airport,OAK,KOAK,37.720085,-122.221184,large_airport,9.210509,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3883,Mineta San Jose International Airport,Mineta San Jose International Airport,SJC,KSJC,37.362452,-121.929188,large_airport,10.675167,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3875,Seattle–Tacoma International Airport,Seattle–Tacoma International Airport,SEA,KSEA,47.447943,-122.310276,large_airport,52.715181,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3771,Philadelphia International Airport,Philadelphia International Airport,PHL,KPHL,39.871899,-75.241096,large_airport,30.13679,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-1990,Toronto Pearson International Airport,Toronto Pearson International Airport,YYZ,CYYZ,43.675935,-79.629421,large_airport,45.714326,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-1926,Billy Bishop Toronto City Airport,Billy Bishop Toronto City Airport,YTZ,CYTZ,43.627852,-79.39553,medium_airport,1.732,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-1928,Montreal / Pierre Elliott Trudeau International Airport,Montreal / Pierre Elliott Trudeau International Airport,YUL,CYUL,45.467837,-73.742294,large_airport,21.550764,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-1941,Vancouver International Airport,Vancouver International Airport,YVR,CYVR,49.193901,-123.183998,large_airport,26.913561,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4731,Mexico City Benito Juárez International Airport,Mexico City Benito Juárez International Airport,MEX,MMMX,19.435822,-99.07033,large_airport,44.605576,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-31923,Felipe Ángeles International Airport,Felipe Ángeles International Airport,NLU,MMSM,19.743824,-99.01507,large_airport,7.079303,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4710,Guadalajara International Airport,Guadalajara International Airport,GDL,MMGL,20.523342,-103.310108,large_airport,17.7102,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4732,Monterrey International Airport,Monterrey International Airport,MTY,MMMY,25.778521,-100.106989,large_airport,13.326936,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4839,José Martí International Airport,José Martí International Airport,HAV,MUHA,22.989200592041016,-82.40910339355469,large_airport,5.713859,2017,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4793,Tocumen International Airport,Tocumen International Airport,PTY,MPTO,9.07136,-79.383499,large_airport,15.779103,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4791,Marcos A. Gelabert International Airport,Marcos A. Gelabert International Airport,PAC,MPMG,8.97334,-79.555603,medium_airport,0.23,2016,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5910,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,GRU,SBGR,-23.431274,-46.469954,large_airport,34.393588,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5974,Congonhas–Deputado Freitas Nobre Airport,Congonhas–Deputado Freitas Nobre Airport,CGH,SBSP,-23.627657,-46.654601,large_airport,18.158375,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5927,Viracopos International Airport,Viracopos International Airport,VCP,SBKP,-23.007404,-47.134502,large_airport,11.917144,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5781,Ezeiza International Airport - Ministro Pistarini,Ezeiza International Airport - Ministro Pistarini,EZE,SAEZ,-34.8222,-58.5358,large_airport,11.911,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5771,Aeroparque Jorge Newbery,Aeroparque Jorge Newbery,AEP,SABE,-34.559419,-58.415536,large_airport,4.518,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5906,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio de Janeiro Galeão – Tom Jobim International Airport,GIG,SBGL,-22.809999,-43.250557,large_airport,14.443884,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5967,Santos Dumont Airport,Santos Dumont Airport,SDU,SBRJ,-22.910397,-43.16282,large_airport,10.187401,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6217,Jorge Chávez International Airport,Jorge Chávez International Airport,LIM,SPJC,-12.0219,-77.114305,large_airport,22.876785,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6104,El Dorado International Airport,El Dorado International Airport,BOG,SKBO,4.70159,-74.1469,large_airport,36.478591,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6015,Comodoro Arturo Merino Benítez International Airport,Comodoro Arturo Merino Benítez International Airport,SCL,SCEL,-33.393001556396484,-70.78579711914062,large_airport,18.744155,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6300,Maiquetía Simón Bolívar International Airport,Maiquetía Simón Bolívar International Airport,CCS,SVMI,10.602214,-66.991174,large_airport,3.883572,2018,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5882,Tancredo Neves International Airport,Tancredo Neves International Airport,CNF,SBCF,-19.63571,-43.966928,large_airport,9.428651,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5869,Pampulha - Carlos Drummond de Andrade Airport,Pampulha - Carlos Drummond de Andrade Airport,PLU,SBBH,-19.85074,-43.950316,medium_airport,0.000025,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5872,Presidente Juscelino Kubitschek International Airport,Presidente Juscelino Kubitschek International Airport,BSB,SBBR,-15.869167,-47.920834,large_airport,13.471797,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5977,Deputado Luiz Eduardo Magalhães International Airport,Deputado Luiz Eduardo Magalhães International Airport,SSA,SBSV,-12.908611,-38.322498,large_airport,6.504908,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5965,Recife/Guararapes - Gilberto Freyre International Airport,Recife/Guararapes - Gilberto Freyre International Airport,REC,SBRF,-8.12747,-34.922961,large_airport,8.631385,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6158,Jose Maria Córdova International Airport,Jose Maria Córdova International Airport,MDE,SKRG,6.16454,-75.4231,large_airport,13.214155,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6132,Enrique Olaya Herrera Airport,Enrique Olaya Herrera Airport,EOH,SKMD,6.219686,-75.590597,medium_airport,1.317319,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-308273,Mariscal Sucre International Airport,Mariscal Sucre International Airport,UIO,SEQM,-0.125399,-78.354306,large_airport,4.3,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6056,José Joaquín de Olmedo International Airport,José Joaquín de Olmedo International Airport,GYE,SEGU,-2.15742,-79.883598,large_airport,3.747,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-6247,Carrasco General Cesáreo L. Berisso International Airport,Carrasco General Cesáreo L. Berisso International Airport,MVD,SUMU,-34.835647,-56.026497,large_airport,2.084836,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27145,Sydney Kingsford Smith International Airport,Sydney Kingsford Smith International Airport,SYD,YSSY,-33.946098,151.177002,large_airport,28.983874,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27066,Melbourne Airport,Melbourne Airport,MEL,YMML,-37.670732,144.837898,large_airport,25.690854,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27043,Melbourne Avalon International Airport,Melbourne Avalon International Airport,AVV,YMAV,-38.040269,144.467196,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-26901,Brisbane International Airport,Brisbane International Airport,BNE,YBBN,-27.384199142456055,153.11700439453125,large_airport,16.905697,2022,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27119,Perth International Airport,Perth International Airport,PER,YPPH,-31.94029998779297,115.96700286865234,large_airport,16.9,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-27096,Adelaide International Airport,Adelaide International Airport,ADL,YPAD,-34.947512,138.533393,large_airport,8.351636,2024,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5023,Auckland International Airport,Auckland International Airport,AKL,NZAA,-37.01199,174.786331,large_airport,21.111613,2019,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5063,Wellington International Airport,Wellington International Airport,WLG,NZWN,-41.326839,174.806862,large_airport,3.770321,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5026,Christchurch International Airport,Christchurch International Airport,CHC,NZCH,-43.489029,172.532065,large_airport,3.705373,2021,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-5453,Daniel K. Inouye International Airport,Daniel K. Inouye International Airport,HNL,PHNL,21.318387,-157.92567,large_airport,21.188678,2023,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-4960,Nausori International Airport,Nausori International Airport,SUV,NFNA,-18.044226,178.561486,large_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-4042,Valencia Airport,Valencia Airport,VLC,LEVC,39.489162,-0.480961,large_airport,11.847527,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4001,Bilbao Airport,Bilbao Airport,BIO,LEBB,43.301102,-2.91061,large_airport,7.062681,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4020,Málaga-Costa del Sol Airport,Málaga-Costa del Sol Airport,AGP,LEMG,36.6749,-4.49911,large_airport,26.760549,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3081,Gran Canaria Airport,Gran Canaria Airport,LPA,GCLP,27.9319,-15.3866,large_airport,15.826553,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3084,Tenerife Norte-Ciudad de La Laguna Airport,Tenerife Norte-Ciudad de La Laguna Airport,TFN,GCXO,28.482752,-16.341707,large_airport,7.174977,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3083,Tenerife Sur Airport,Tenerife Sur Airport,TFS,GCTS,28.0445,-16.5725,large_airport,13.969678,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4035,Palma de Mallorca Airport,Palma de Mallorca Airport,PMI,LEPA,39.551701,2.73881,large_airport,33.806427,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4013,Ibiza Airport,Ibiza Airport,IBZ,LEIB,38.872898,1.37312,large_airport,9.138224,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4021,Menorca Airport,Menorca Airport,MAH,LEMH,39.862598,4.21865,large_airport,4.210152,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4047,Seve Ballesteros-Santander Airport,Seve Ballesteros-Santander Airport,SDR,LEXJ,43.427101,-3.82001,medium_airport,1.06939,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3999,Asturias Airport,Asturias Airport,OVD,LEAS,43.563599,-6.03462,large_airport,2.051342,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4007,A Coruña Airport,A Coruña Airport,LCG,LECO,43.302101,-8.37726,medium_airport,1.292166,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4048,Zaragoza Airport,Zaragoza Airport,ZAZ,LEZG,41.666199,-1.04155,large_airport,0.707493,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-300859,Castellón-Costa Azahar Airport,Castellón-Costa Azahar Airport,CDT,LECH,40.213889,0.073333,medium_airport,,,,ourairports-2026-09-14,2026-09-16
+ourairports-3997,Alicante-Elche Miguel Hernández Airport,Alicante-Elche Miguel Hernández Airport,ALC,LEAL,38.2822,-0.558156,large_airport,19.950394,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-4049,Seville Airport,Seville Airport,SVQ,LEZL,37.417999,-5.89311,large_airport,9.686487,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3082,César Manrique-Lanzarote Airport,César Manrique-Lanzarote Airport,ACE,GCRR,28.945499,-13.6052,large_airport,8.920901,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3077,Fuerteventura Airport,Fuerteventura Airport,FUE,GCFV,28.4527,-13.8638,large_airport,6.886935,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3080,La Palma Airport,La Palma Airport,SPC,GCLA,28.626499,-17.7556,medium_airport,1.533355,2025,aena-2025-annual-traffic,ourairports-2026-09-14,2026-09-16
+ourairports-3486,Denver International Airport,Denver International Airport,DEN,KDEN,39.860027,-104.673792,large_airport,82.427962,2025,aci-world-2025-passengers,ourairports-2026-09-14,2026-09-16
+ourairports-3631,Harry Reid International Airport,Harry Reid International Airport,LAS,KLAS,36.083361,-115.151817,large_airport,54.989185,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3670,Orlando International Airport,Orlando International Airport,MCO,KMCO,28.429399490356445,-81.30899810791016,large_airport,57.675573,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3457,Charlotte Douglas International Airport,Charlotte Douglas International Airport,CLT,KCLT,35.2140007019043,-80.94309997558594,large_airport,53.574392,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16
+ourairports-3772,Phoenix Sky Harbor International Airport,Phoenix Sky Harbor International Airport,PHX,KPHX,33.435302,-112.005905,large_airport,51.618649,2025,wikidata-airport-traffic-2026-09-17,ourairports-2026-09-14,2026-09-16

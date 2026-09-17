@@ -10,7 +10,7 @@ Cada edición registra la fuente del marco, la fecha límite de revisión, la in
 
 ## Aeropuertos
 
-Se incluye un aeropuerto cuando ofrece servicios regulares de pasajeros que se pueden reservar durante la temporada actual o una temporada recurrente anunciada, y fuentes fiables lo presentan convencionalmente como aeropuerto de la ciudad. Puede estar fuera del municipio; la distancia no lo incluye ni excluye por sí sola. Los aeropuertos estacionales recurrentes se incluyen y se identifican.
+Se incluye un aeropuerto cuando ofrece servicios comerciales regulares de pasajeros que se pueden reservar durante todo el año, y fuentes fiables lo presentan convencionalmente como aeropuerto de la ciudad. Puede estar fuera del municipio; la distancia no lo incluye ni excluye por sí sola. Se excluyen los aeropuertos exclusivamente estacionales.
 
 Se excluyen aeropuertos exclusivamente chárter, de carga, militares, de aviación general, cerrados o propuestos. Un aeropuerto puede asociarse con varias ciudades si cada relación está respaldada de forma independiente. La condición de aeropuerto principal es descriptiva y no modifica la clasificación.
 

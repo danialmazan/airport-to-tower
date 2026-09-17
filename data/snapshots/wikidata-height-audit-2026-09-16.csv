@@ -1,0 +1,268 @@
+tower_id,tower_name,stored_height_m,normalized_height_m,source_unit,action
+wikidata-q183536,Tokyo Tower,332.6,332.6,Q11573,verified_metres
+wikidata-q57965,Tokyo Skytree,634,634,Q11573,verified_metres
+wikidata-q187635,Qutb Minar,72.5,72.5,Q11573,verified_metres
+wikidata-q223207,Oriental Pearl Tower,468,468,Q11573,verified_metres
+wikidata-q18547,Shanghai Tower,632,632,Q11573,verified_metres
+wikidata-q497536,Jatiya Sangsad Bhaban,155,155,Q11573,verified_metres
+wikidata-q197833,China Zun,528,528,Q11573,verified_metres
+wikidata-q7285587,Rajabai Clock Tower,85.34400000000001,,,review_no_matching_claim
+wikidata-q98937711,Three Sixty West Tower B,361.2,361.2,Q11573,verified_metres
+wikidata-q1148463,Tsūtenkaku,108,108,Q11573,verified_metres
+wikidata-q16318627,Abeno Harukas,300,300,Q11573,verified_metres
+wikidata-q2571455,Mazar-e-Quaid,43,,,review_no_matching_claim
+wikidata-q7076089,Ocean Towers,120,120,Q11573,verified_metres
+wikidata-q1666430,International Commerce Center 1,458,458,Q11573,verified_metres
+wikidata-q91274,Galata Tower,62.59,62.59,Q11573,verified_metres
+wikidata-q131388493,CBRT Tower,354,354,Q11573,verified_metres
+wikidata-q7711913,The 42,260,260,Q11573,verified_metres
+wikidata-q1461,Manila,50,,,review_no_matching_claim
+wikidata-q168400,Canton Tower,600,600,Q11573,verified_metres
+wikidata-q1353260,Tianjin Radio and Television Tower,415.2,415.2,Q11573,verified_metres
+wikidata-q10939987,Tianjin Chow Tai Fook Binhai Center,530,530,Q11573,verified_metres
+wikidata-q996962,Minar-e-Pakistan,62,62,Q11573,verified_metres
+wikidata-q7639954,Suneri Mosque,54,54,Q11573,verified_metres
+wikidata-q283257,Vidhana Soudha,45.72,,,review_no_matching_claim
+wikidata-q126710631,Shrungagiri Sri Shanmukha Swamy Temple,37.4904738,,,review_no_matching_claim
+wikidata-q1077308,Ping An Finance Centre,599.05,599.05,Q11573,verified_metres
+wikidata-q2509435,Valluvar Kottam,39,,,review_no_matching_claim
+wikidata-q6546309,Chennai Lighthouse,45.72,45.72,Q11573,verified_metres
+wikidata-q30686870,Thamrin Nine,382.9,382.9,Q11573,verified_metres
+wikidata-q724970,Wat Arun,66.8,,,review_no_matching_claim
+wikidata-q1640197,King Power Mahanakhon,314,314,Q11573,verified_metres
+wikidata-q1771696,Charminar,48.7,48.7,Q11573,verified_metres
+wikidata-q69134,Namsan Seoul Tower,236.83,236.83,Q11573,verified_metres
+wikidata-q494895,Lotte World Tower,555.7,555.7,Q11573,verified_metres
+wikidata-q283373,Nagoya TV Tower,180,180,Q11573,verified_metres
+wikidata-q1155401,Midland Square,247,247,Q11573,verified_metres
+wikidata-q1140026,Azadi Tower,45,45,Q11573,verified_metres
+wikidata-q622796,Milad Tower,435,435,Q11573,verified_metres
+wikidata-q2118734,West Pearl Tower,339,,,review_no_matching_claim
+wikidata-q18589922,Chengdu Greenland Tower,468,468,Q11573,verified_metres
+wikidata-q382121,Zifeng Tower,450,450,Q11573,verified_metres
+wikidata-q462372,Tower of the Yellow Crane,51.4,,,review_no_matching_claim
+wikidata-q143235,Wuhan Greenland Center,475.6,475.6,Q11573,verified_metres
+wikidata-q638512,Bitexco Financial Tower,265.5,265.5,Q11573,verified_metres
+wikidata-q18640924,Landmark 81,461.5,461.5,Q11573,verified_metres
+wikidata-q83063,Petronas Towers,452.01840000000004,,,review_no_matching_claim
+wikidata-q7969454,Merdeka 118,678.9,678.9,Q11573,verified_metres
+wikidata-q1047061,Giant Wild Goose Pagoda,50,,,review_no_matching_claim
+wikidata-q99208458,China International Silk Road Center,498,498,Q11573,verified_metres
+wikidata-q1070,Ahmedabad,50,,,review_no_matching_claim
+wikidata-q317034,International Commerce Centre,484,484,Q11573,verified_metres
+wikidata-q548679,Marina Bay Sands,206.9,,,review_no_matching_claim
+wikidata-q28873239,Guoco Tower,290,290,Q11573,verified_metres
+wikidata-q1407266,Baghdad Tower,205,205,Q11573,verified_metres
+wikidata-q100258244,Central Bank of Iraq Tower,421,421,Q11573,verified_metres
+wikidata-q656743,Kingdom Centre,302,302,Q11573,verified_metres
+wikidata-q13892708,Capital Market Authority Headquarters,385,385,Q11573,verified_metres
+wikidata-q12495,Burj Khalifa,829.8,829.8,Q11573,verified_metres
+wikidata-q737602,Aspire Tower,300,300,Q11573,verified_metres
+wikidata-q1128296,Doha Convention Center Tower,570,570,Q11573,verified_metres
+wikidata-q1335640,Kuwait Towers,187,187,Q11573,verified_metres
+wikidata-q557933,Al Hamra Tower,412,412,Q11573,verified_metres
+wikidata-q1177765,Tower of David,50,,,review_no_matching_claim
+wikidata-q6699839,Vert Jerusalem,95,95,Q11573,verified_metres
+wikidata-q83101,Taipei 101,508,508,Q11573,verified_metres
+wikidata-q41225,Big Ben,96,96,Q11573,verified_metres
+wikidata-q18536,The Shard,306,306,Q11573,verified_metres
+wikidata-q243,Eiffel Tower,330,330,Q11573,verified_metres
+wikidata-q989733,Torrespaña,231,231,Q11573,verified_metres
+wikidata-q953610,Torre de Cristal,249,249,Q11573,verified_metres
+wikidata-q48435,Basilica and Expiatory Church of the Holy Family,172.5,172.5,Q11573,verified_metres
+wikidata-q1147977,Torre de Collserola,288.4,288.4,Q11573,verified_metres
+wikidata-q151356,Fernsehturm Berlin,368,368,Q11573,verified_metres
+wikidata-q12512,St. Peter's Basilica,136.6,136.6,Q11573,verified_metres
+wikidata-q3664909,RAI tower,180,180,Q11573,verified_metres
+wikidata-q18068,Milan Cathedral,108.5,108.5,Q11573,verified_metres
+wikidata-q3995200,Allianz Tower,207,207,Q11573,verified_metres
+wikidata-q181324,Ostankino Tower,540.1,540.1,Q11573,verified_metres
+wikidata-q736587,Peter and Paul Cathedral,122.5,122.5,Q11573,verified_metres
+wikidata-q4255374,Lakhta Centre,462,462,Q11573,verified_metres
+wikidata-q142917,Mother Ukraine Monument,62,62,Q11573,verified_metres
+wikidata-q1369185,Kyiv TV Tower,385,385,Q11573,verified_metres
+wikidata-q167566,Palace of Culture and Science,230,230,Q11573,verified_metres
+wikidata-q116847270,Varso Tower,310,310,Q11573,verified_metres
+wikidata-q1413217,Žižkov Television Tower,216,216,Q11573,verified_metres
+wikidata-q686544,Donauturm,252,252,Q11573,verified_metres
+wikidata-q11819,Hungarian Parliament Building,96,96,Q11573,verified_metres
+wikidata-q25457032,Száva utca TV Tower,154,154,Q11573,verified_metres
+wikidata-q164150,Palace of the Parliament,84,84,Q11573,verified_metres
+wikidata-q1428093,National Cathedral,120,120,Q11573,verified_metres
+wikidata-q10288,Parthenon,13.72,13.72,Q11573,verified_metres
+wikidata-q215003,Belém Tower,35,35,Q11573,verified_metres
+wikidata-q233737,Vasco da Gama Bridge,155,155,Q11573,verified_metres
+wikidata-q18642,Clérigos Church,75,,,review_no_matching_claim
+wikidata-q54802080,Clérigos Tower and Church,75.6,75.6,Q11573,verified_metres
+wikidata-q1134365,Spire of Dublin,121.2,121.2,Q11573,verified_metres
+wikidata-q846365,St Patrick's Cathedral,43,43,Q11573,verified_metres
+wikidata-q180901,Atomium,102,102,Q11573,verified_metres
+wikidata-q3533638,Finance Tower,145,145,Q11573,verified_metres
+wikidata-q1816984,Westerkerk,87,,,review_no_matching_claim
+wikidata-q969215,Euromast,184.5,184.5,Q11573,verified_metres
+wikidata-q1140534,Rundetaarn,41.55,41.55,Q11573,verified_metres
+wikidata-q648483,Stockholm City Hall,106,,,review_no_matching_claim
+wikidata-q10550988,Block Lusten,78,78,Q11573,verified_metres
+wikidata-q373850,Oslo City Hall,66,66,Q11573,verified_metres
+wikidata-q738015,Helsinki Cathedral,62,,,review_no_matching_claim
+wikidata-q385150,Yle Transmission Tower,146,146,Q11573,verified_metres
+wikidata-q684948,Grossmünster,50,,,review_no_matching_claim
+wikidata-q1337473,St. Jakob church,86,86,Q11573,verified_metres
+wikidata-q167193,Frauenkirche,99,99,Q11573,verified_metres
+wikidata-q599148,Olympiaturm,290,290,Q11573,verified_metres
+wikidata-q321291,Main Tower,200,200,Q11573,verified_metres
+wikidata-q701496,Europaturm,331.14,331.14,Q11573,verified_metres
+wikidata-q648375,Heinrich Hertz Tower,279.2,279.2,Q11573,verified_metres
+wikidata-q4176,Cologne Cathedral,157,157,Q11573,verified_metres
+wikidata-q153646,Colonius,266,266,Q11573,verified_metres
+wikidata-q2578415,Manchester Town Hall,85.344,,,review_no_matching_claim
+wikidata-q4836768,BT Tower,140,140,Q11573,verified_metres
+wikidata-q4093,Glasgow,50,,,review_no_matching_claim
+wikidata-q2502213,Scott Monument,50,,,review_no_matching_claim
+wikidata-q1258275,Avala Tower,204.68,204.68,Q11573,verified_metres
+wikidata-q312220,Zagreb Cathedral,108,108,Q11573,verified_metres
+wikidata-q790278,Avaz Twist Tower,172,172,Q11573,verified_metres
+wikidata-q3437287,Greece–Bosnia and Herzegovina Friendship Building,80.36067819,,,review_no_matching_claim
+wikidata-q1890632,Millennium Cross,66,,,review_no_matching_claim
+wikidata-q1515102,Maritim Hotel Plaza Tirana,85,85,Q11573,verified_metres
+wikidata-q614684,Cairo Tower,187,187,Q11573,verified_metres
+wikidata-q102281065,Iconic Tower,393.8,393.8,Q11573,verified_metres
+wikidata-q16733944,NITEL Building,160,160,Q11573,verified_metres
+wikidata-q63483561,Tour de l'Échangeur de Limete,210,210,Q11573,verified_metres
+wikidata-q1563940,Hillbrow Tower,269,269,Q11573,verified_metres
+wikidata-q32788393,Mausoleum of Agostinho Neto,50,,,review_no_matching_claim
+wikidata-q553923,Corinthia Hotel Khartoum,85,,,review_no_matching_claim
+wikidata-q96912060,PSPF Towers – Tower B,153,153,Q11573,verified_metres
+wikidata-q43244,Lighthouse of Alexandria,137,137,Q11573,verified_metres
+wikidata-q3533159,Tour Postel 2001,105,105,Q11573,verified_metres
+wikidata-q3272625,Kenyatta International Convention Centre,105,105,Q11573,verified_metres
+wikidata-q55642324,The Pinnacle (Nairobi),320,320,Q11573,verified_metres
+wikidata-q41346,Hassan II Mosque,200,,,review_no_matching_claim
+wikidata-q60851364,Casablanca Finance City Tower,136,136,Q11573,verified_metres
+wikidata-q124619191,Villagio Apartments,100,100,Q11573,verified_metres
+wikidata-q27857526,Commercial Bank of Ethiopia Headquarters,209.15,,,review_no_matching_claim
+wikidata-q96912134,Wegagen Bank Headquarters,107,107,Q11573,verified_metres
+wikidata-q470763,African Renaissance Monument,60,60,Q11573,verified_metres
+wikidata-q96912163,Immeuble Kébé,100,100,Q11573,verified_metres
+wikidata-q4022677,Kampala Mosque,50,,,review_no_matching_claim
+wikidata-q7186495,Mother Temple of Africa,39,39,Q11573,verified_metres
+wikidata-q10270271,Maputo City Hall,50,,,review_no_matching_claim
+wikidata-q96912088,Banco de Mocambique Tower 1,130,130,Q11573,verified_metres
+wikidata-q3561,Algiers,50,,,review_no_matching_claim
+wikidata-q29059648,Nation Tower,82.54,82.54,Q11573,verified_metres
+wikidata-q579331,Hassan Tower,50,,,review_no_matching_claim
+wikidata-q56064359,New Reserve Bank Tower,120,120,Q11573,verified_metres
+wikidata-q21007716,FINDECO House,89.9,,,review_no_matching_claim
+wikidata-q7797448,Three Dikgosi Monument,5.4,5.4,Q11573,verified_metres
+wikidata-q3935,Windhoek,50,,,review_no_matching_claim
+wikidata-q3915,Antananarivo,50,,,review_no_matching_claim
+wikidata-q2882647,Bank of Mauritius Tower,124,124,Q11573,verified_metres
+wikidata-q9188,Empire State Building,453,453,Q11573,verified_metres
+wikidata-q11245,One World Trade Center,546.2,546.2,Q11573,verified_metres
+wikidata-q368489,Los Angeles City Hall,138,138,Q11573,verified_metres
+wikidata-q57900,U.S. Bank Tower,310.3,310.3,Q11573,verified_metres
+wikidata-q29294,Willis Tower,442.1,442.1,Q11573,verified_metres
+wikidata-q1248619,Reunion Tower,171,171,Q11573,verified_metres
+wikidata-q806675,Bank of America Plaza,281,281,Q11573,verified_metres
+wikidata-q935919,JPMorgan Chase Tower,305.4,305.4,Q11573,verified_metres
+wikidata-q178114,Washington Monument,169.046,169.046,Q11573,verified_metres
+wikidata-q668710,Washington National Cathedral,91.7,91.7,Q11573,verified_metres
+wikidata-q7947827,WCIX TV Tower,549,549,Q11573,verified_metres
+wikidata-q3177225,Westin Peachtree Plaza Hotel,220.37040000000002,,,review_no_matching_claim
+wikidata-q499486,Bank of America Plaza,311.8,311.8,Q11573,verified_metres
+wikidata-q798416,John Hancock Tower,241,241,Q11573,verified_metres
+wikidata-q216865,Transamerica Pyramid,260,260,Q11573,verified_metres
+wikidata-q14684154,Salesforce Tower,326,326,Q11573,verified_metres
+wikidata-q5317,Space Needle,184,184,Q11573,verified_metres
+wikidata-q908703,Columbia Center,294.8,294.8,Q11573,verified_metres
+wikidata-q1138183,Philadelphia City Hall,167,167,Q11573,verified_metres
+wikidata-q463759,American Commerce Center,460,460,Q11573,verified_metres
+wikidata-q134883,CN Tower,553.3,553.3,Q11573,verified_metres
+wikidata-q61602719,Montreal Tower,175,175,Q11573,verified_metres
+wikidata-q164877,1000 de La Gauchetière,205,205,Q11573,verified_metres
+wikidata-q867340,Harbour Centre,169,169,Q11573,verified_metres
+wikidata-q1785026,Living Shangri-La,201,201,Q11573,verified_metres
+wikidata-q947870,Torre Latinoamericana,182,182,Q11573,verified_metres
+wikidata-q844813,Torre Mayor,230.4,230.4,Q11573,verified_metres
+wikidata-q1706069,Guadalajara Cathedral,65,,,review_no_matching_claim
+wikidata-q5436075,Faro del Comercio,69.8,,,review_no_matching_claim
+wikidata-q1708874,José Martí Memorial,112.75,,,review_no_matching_claim
+wikidata-q110110932,Cuban Telephone Company Building,62,62,Q11573,verified_metres
+wikidata-q5853834,F&F Tower,236.4,,,review_no_matching_claim
+wikidata-q2444561,Vitri Tower,281,281,Q11573,verified_metres
+wikidata-q169420,Edifício Altino Arantes,161.22,161.22,Q11573,verified_metres
+wikidata-q42258,Mirante do Vale,170,170,Q11573,verified_metres
+wikidata-q831389,Obelisco de Buenos Aires,67.5,67.5,Q11573,verified_metres
+wikidata-q2961507,Chateau Libertador Residence,133.06,133.06,Q11573,verified_metres
+wikidata-q79961,Christ the Redeemer,30.1,30.1,Q11573,verified_metres
+wikidata-q2411716,Rio de Janeiro Cathedral,75,75,Q11573,verified_metres
+wikidata-q2446793,Cathedral of Lima,50,,,review_no_matching_claim
+wikidata-q48460897,T Tower,90,90,Q11573,verified_metres
+wikidata-q19207166,Torres Atrio,268,268,Q11573,verified_metres
+wikidata-q1542408,Gran Torre Costanera,300,300,Q11573,verified_metres
+wikidata-q4388657,Parque Central Complex,225,225,Q11573,verified_metres
+wikidata-q1054303,Confinanzas Financial Center,171,171,Q11573,verified_metres
+wikidata-q42800,Belo Horizonte,50,,,review_no_matching_claim
+wikidata-q201720,Cathedral of Brasília,40,,,review_no_matching_claim
+wikidata-q1270936,Brasilia TV Tower,224,224,Q11573,verified_metres
+wikidata-q1328348,Elevador Lacerda,73.5,,,review_no_matching_claim
+wikidata-q10323861,Mansão Margarida Costa Pinto,154.45,154.45,Q11573,verified_metres
+wikidata-q15975929,Malakoff tower,50,,,review_no_matching_claim
+wikidata-q3057904,Coltejer Building,175,175,Q11573,verified_metres
+wikidata-q7826994,Torre del Café,160,160,Q11573,verified_metres
+wikidata-q4868435,Basilica of the National Vow,83,83,Q11573,verified_metres
+wikidata-q6150287,Torre The Point,137,137,Q11573,verified_metres
+wikidata-q1519373,Palacio Salvo,100,,,review_no_matching_claim
+wikidata-q109313102,Torre SAETA,187,187,Q11573,verified_metres
+wikidata-q827268,Sydney Tower,306,306,Q11573,verified_metres
+wikidata-q19870155,1 Macquarie Place,164,164,Q11573,verified_metres
+wikidata-q4823550,Australia 108,316.7,316.7,Q11573,verified_metres
+wikidata-q4968552,Brisbane City Hall,92,,,review_no_matching_claim
+wikidata-q16823864,"300 George Street, Brisbane",264,264,Q11573,verified_metres
+wikidata-q3183,Perth,50,,,review_no_matching_claim
+wikidata-q5112,Adelaide,50,,,review_no_matching_claim
+wikidata-q37100,Auckland,50,,,review_no_matching_claim
+wikidata-q10323215,Majestic Centre,116,,,review_no_matching_claim
+wikidata-q1077977,Christ Church Cathedral,63,,,review_no_matching_claim
+wikidata-q17036267,Westpac Canterbury Centre,55,55,Q11573,verified_metres
+wikidata-q448450,Aloha Tower,56,56,Q11573,verified_metres
+wikidata-q106436675,Q106436675,127,127,Q11573,verified_metres
+wikidata-q131658559,WG Friendship Plaza Suva,112,112,Q11573,verified_metres
+wikidata-q1466926,Valencia Cathedral,55,55,Q11573,verified_metres
+wikidata-q3121267,Iberdrola Tower,165,165,Q11573,verified_metres
+wikidata-q1582758,Cathedral Basilica of the Virgin of Incarnation,84,,,review_no_matching_claim
+wikidata-q5669119,"La Farola, Málaga",37,37,Q11573,verified_metres
+wikidata-q1385934,Cathedral Basilica of St. Ann,50,,,review_no_matching_claim
+wikidata-q734657,Torres de Santa Cruz,120,120,Q11573,verified_metres
+wikidata-q1298819,Palma Cathedral,62,,,review_no_matching_claim
+wikidata-q5856454,Portopí Lighthouse,38,38,Q11573,verified_metres
+wikidata-q2942557,Ibiza Cathedral,50,,,review_no_matching_claim
+wikidata-q11920552,Santa Maria de Maó,50,,,review_no_matching_claim
+wikidata-q8960896,Favàritx Lighthouse,28,28,Q11573,verified_metres
+wikidata-q922172,Santander Cathedral,50,,,review_no_matching_claim
+wikidata-q5856365,Faro de Cabo Mayor,30,30,Q11573,verified_metres
+wikidata-q1534288,Oviedo Cathedral,62.05,,,review_no_matching_claim
+wikidata-q245151,Tower of Hercules,49,49,Q11573,verified_metres
+wikidata-q3395775,Torre Costa Rica,119,119,Q11573,verified_metres
+wikidata-q810684,Basilica of Our Lady of the Pillar,92,,,review_no_matching_claim
+wikidata-q11374320,"Torre de telecomunicaciones Movistar, Zaragoza",117,117,Q11573,verified_metres
+wikidata-q2511122,El Fadrí,60,60,Q11573,verified_metres
+wikidata-q131349248,"Montreal Building (Alicante, Spain)",90,90,Q11573,verified_metres
+wikidata-q96078341,Alamillo Bridge tower,140,140,Q11573,verified_metres
+wikidata-q47003633,Gran Hotel,50,,,review_no_matching_claim
+wikidata-q24013882,Puerto del Rosario,50,,,review_no_matching_claim
+wikidata-q433632,Santa Cruz de La Palma,50,,,review_no_matching_claim
+wikidata-q901770,Daniels & Fisher Tower,113.4,,,review_no_matching_claim
+wikidata-q4640570,555 17th Street,154.5339042,,,review_no_matching_claim
+wikidata-q1340132,Encore,192,192,Q11573,verified_metres
+wikidata-q49233,Orlando,50,,,review_no_matching_claim
+wikidata-q586913,Bank of America Financial Center,265,265,Q11573,verified_metres
+wikidata-q673794,Truist Center (Charlotte),201,201,Q11573,verified_metres
+wikidata-q2943678,Chase Tower,147.22,147.22,Q11573,verified_metres
+wikidata-q1756313,Vasco da Gama Tower,145,,,review_no_matching_claim
+wikidata-q28223286,Britam Tower,200.1,200.1,Q11573,verified_metres
+wikidata-q16958963,Comcast Technology Center,341.7,341.7,Q11573,verified_metres
+wikidata-q3062297,Meliá Valencia,117,,,review_no_matching_claim
+wikidata-q4650945,AC Hotel Gran Canaria,84,,,review_no_matching_claim
+wikidata-q2746748,Torre Sevilla,180.5,,,review_no_matching_claim
+wikidata-q834479,Giralda,104,104,Q11573,verified_metres

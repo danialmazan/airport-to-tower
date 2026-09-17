@@ -1,0 +1,54 @@
+city,mode,language,title,qid,pageTitle,latitude,longitude,label,height_m,completed_year
+Manila,tallest,en,Metrobank Center,Q5440278,Metrobank Center,14.55696,121.05206,Grand Hyatt Manila,,2018
+Manila,iconic,en,Rizal Monument,Q7339077,Rizal Monument,14.581669,120.976694,Rizal Monument,,1908
+Ahmedabad,tallest,en,Mondeal One,,Mondeal One,,,Mondeal One,,
+Ahmedabad,iconic,en,Patang Hotel,Q107210904,Patang Hotel,23.02638888888889,72.57216666666666,Patang Hotel,,1983
+Glasgow,tallest,en,Glasgow Tower,Q3533344,Glasgow Tower,55.8585,-4.29325,Glasgow Tower,,2001
+Glasgow,iconic,en,Gilbert Scott Building,,Gilbert Scott Building,,,Gilbert Scott Building,,
+Algiers,tallest,en,Djamaa el Djazaïr,Q23012984,Djamaa el Djazaïr,36.735833333333,3.1380555555556,Djamaa El Djazaïr,265,2019
+Algiers,iconic,en,"Martyrs' Memorial, Algiers",,,,,,,
+Windhoek,tallest,en,Sanlam Centre,Q1664331,Sanlam Centre,-22.558904,17.082481,Sanlam Centre,50.24,1990
+Windhoek,iconic,en,"Christ Church, Windhoek",Q1087458,"Christ Church, Windhoek",-22.56777778,17.08722222,"Christ Church, Windhoek",,1896
+Antananarivo,tallest,en,FIARO Building,,FIARO Building,,,FIARO Building,,
+Antananarivo,iconic,en,Rova of Antananarivo,Q1290337,Rova of Antananarivo,-18.92365,47.53202,Rova of Antananarivo,,
+Belo Horizonte,tallest,en,Aureliano Chaves building,Q82800323,Aureliano Chaves building,-19.928416666666667,-43.949888888888886,Aureliano Chaves building,,2014
+Belo Horizonte,iconic,en,Edifício Acaiaca,,Edifício Acaiaca,,,Edifício Acaiaca,,
+Perth,tallest,en,Central Park (skyscraper),Q2585611,Central Park (skyscraper),-31.95366667,115.85561111,Central Park,,1992
+Perth,iconic,en,The Bell Tower (Perth),,The Bell Tower (Perth),,,The Bell Tower (Perth),,
+Adelaide,tallest,en,The Adelaidean,Q125766623,The Adelaidean,-34.92199519717401,138.60759397172538,The Adelaidean,,2020
+Adelaide,iconic,en,"St Peter's Cathedral, Adelaide",Q2918618,"St Peter's Cathedral, Adelaide",-34.91277778,138.59805556,St Peter's Cathedral,,1869
+Auckland,tallest,en,Sky Tower (Auckland),Q722125,Sky Tower (Auckland),-36.84847,174.76231,Sky Tower,328,1997
+Auckland,iconic,en,Sky Tower (Auckland),Q722125,Sky Tower (Auckland),-36.84847,174.76231,Sky Tower,328,1997
+Puerto del Rosario,tallest,en,Puerto del Rosario Lighthouse,Q21039368,Puerto del Rosario Lighthouse,28.505377777778,-13.843755555556,Puerto del Rosario Lighthouse,43,1992
+Orlando,tallest,en,200 South Orange,Q3503721,200 South Orange,28.5398,-81.3799,SunTrust Center,,1988
+Orlando,iconic,en,Cinderella Castle,Q2742709,Cinderella Castle,,,Cinderella Castle,57,
+Dhaka,iconic,en,Central Shaheed Minar,,,,,,,
+Beijing,iconic,en,Temple of Heaven,Q125445,Temple of Heaven,39.8822,116.4066,Temple of Heaven,,
+Chongqing,iconic,en,People's Liberation Monument (Chongqing),,People's Liberation Monument (Chongqing),,,People's Liberation Monument (Chongqing),,
+Kolkata,iconic,en,"Victoria Memorial, Kolkata",Q1356352,"Victoria Memorial, Kolkata",22.5449,88.3425,Victoria Memorial,,1921
+Jakarta,iconic,en,National Monument (Indonesia),Q145151,National Monument (Indonesia),-6.17538889,106.82713889,National Monument of Indonesia,137,1975
+Hong Kong,iconic,en,Bank of China Tower (Hong Kong),Q214855,Bank of China Tower (Hong Kong),22.27916667,114.16138889,Bank of China Tower,367.4,1990
+Vienna,iconic,en,"St. Stephen's Cathedral, Vienna",Q5943,"St. Stephen's Cathedral, Vienna",48.2085,16.373,St. Stephen's Cathedral,136.44,1137
+Hamburg,iconic,en,"St. Michael's Church, Hamburg",Q674472,"St. Michael's Church, Hamburg",53.548333,9.978889,"St. Michaelis Church, Hamburg",132.14,1647
+Birmingham,iconic,en,Joseph Chamberlain Memorial Clock Tower,Q5620988,Joseph Chamberlain Memorial Clock Tower,52.4499,-1.9307,Joseph Chamberlain Memorial Clock Tower,,1908
+Tirana,iconic,en,Clock Tower of Tirana,,,,,,,
+Lagos,iconic,en,NECOM House,Q16733944,NECOM House,6.4461,3.39751,NITEL Building,160,1979
+Alexandria,iconic,en,Montaza Palace,Q1350295,Montaza Palace,31.2886,30.0159,Montaza Palace,,1892
+Abidjan,iconic,en,"La Pyramide, Abidjan",,"La Pyramide, Abidjan",,,"La Pyramide, Abidjan",,
+Accra,iconic,en,Black Star Gate,Q98410976,Black Star Gate,5.54901,-0.19286,Black Star Gate,,
+Tunis,iconic,en,"Clock Tower, Tunis",,"Clock Tower, Tunis",,,"Clock Tower, Tunis",,
+Harare,iconic,en,Reserve Bank of Zimbabwe,Q1025119,Reserve Bank of Zimbabwe,,,Reserve Bank of Zimbabwe,,1956
+Houston,iconic,en,Williams Tower,Q1357650,Williams Tower,29.73722222,-95.46138889,Williams Tower,274.6,1982
+Miami,iconic,en,Freedom Tower (Miami),Q1453542,Freedom Tower (Miami),25.78,-80.18972222,Freedom Tower,78,1925
+Boston,iconic,en,Custom House Tower,Q3007905,Custom House Tower,42.35906944,-71.05336944,Custom House Tower,151,1915
+Bogotá,iconic,en,Torre Colpatria,Q3120855,Torre Colpatria,4.6108333333333,-74.070277777778,Torre Colpatria,196,1978
+Melbourne,iconic,en,Arts Centre Melbourne,Q4801443,Arts Centre Melbourne,-37.82027778,144.96833333,Arts Centre Melbourne,,1984
+Suva,iconic,en,"Government Buildings, Suva",Q5588695,"Government Buildings, Suva",-18.145858,178.424413,"Government Buildings, Suva",,1939
+Alicante,iconic,en,Santa Bárbara Castle,,,,,,,
+Las Vegas,iconic,en,The Strat,Q845846,The Strat,36.147386,-115.155389,"The STRAT Hotel, Casino & SkyPod",,1996
+Phoenix,iconic,en,Westward Ho (Phoenix),Q7989806,"Westward Ho (Phoenix, Arizona)",33.454972,-112.073839,Westward Ho,,1928
+Puerto del Rosario,iconic,es,Iglesia de Nuestra Señora del Rosario (Puerto del Rosario),,Iglesia de Nuestra Señora del Rosario (Puerto del Rosario),,,Iglesia de Nuestra Señora del Rosario (Puerto del Rosario),,
+Santa Cruz de La Palma,tallest,es,Iglesia matriz de El Salvador (Santa Cruz de La Palma),Q5637893,Iglesia matriz de El Salvador (Santa Cruz de La Palma),28.683612,-17.764942,Iglesia de El Salvador,,
+Santa Cruz de La Palma,iconic,es,Iglesia matriz de El Salvador (Santa Cruz de La Palma),Q5637893,Iglesia matriz de El Salvador (Santa Cruz de La Palma),28.683612,-17.764942,Iglesia de El Salvador,,
+Guayaquil,iconic,es,Torre Morisca,,,,,,,
+Valencia,iconic,ca,Micalet,Q2975344,Micalet,39.47497,-0.3755,El Micalet,,1429

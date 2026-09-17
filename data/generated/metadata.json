@@ -1,18 +1,18 @@
 {
-  "release_id": "2026-research-preview-1",
+  "release_id": "2026-top-research-1",
   "release_status": "research_preview",
-  "generated_at": "2026-09-14T00:00:00Z",
-  "review_cutoff": "2026-09-14",
+  "generated_at": "2026-09-16T00:00:00Z",
+  "review_cutoff": "2026-09-16",
   "methodology_version": "1.0.0",
-  "city_count": 150,
-  "airport_count": 208,
-  "tower_count": 231,
-  "observation_count": 416,
+  "city_count": 173,
+  "airport_count": 232,
+  "tower_count": 295,
+  "observation_count": 464,
   "mode_counts": {
-    "tallest": 208,
-    "iconic": 208
+    "tallest": 232,
+    "iconic": 232
   },
-  "low_confidence_selection_count": 52,
-  "candidate_selection_count": 300,
-  "source_snapshot": "OurAirports 2026-09-14; Wikidata entities accessed 2026-09-14"
+  "low_confidence_selection_count": 21,
+  "candidate_selection_count": 346,
+  "source_snapshot": "OurAirports 2026-09-14; Wikidata entities and official 2025 airport-demand sources accessed 2026-09-16"
 }

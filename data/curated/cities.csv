@@ -1,151 +1,174 @@
 city_id,city_name_en,city_name_es,city_name_local,country_code,country_name_en,country_name_es,continent,region,coverage_frame,population_source_id,review_status,reviewed_at
-city-q1490,Tokyo,Tokio,Tokyo,JP,Japan,Japón,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1353,Delhi,Delhi,Delhi,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q8686,Shanghai,Shanghái,Shanghai,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1354,Dhaka,Daca,Dhaka,BD,Bangladesh,Bangladés,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q956,Beijing,Pekín,Beijing,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1156,Mumbai,Bombay,Mumbai,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q35765,Osaka,Osaka,Osaka,JP,Japan,Japón,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q8660,Karachi,Karachi,Karachi,PK,Pakistan,Pakistán,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q11725,Chongqing,Chongqing,Chongqing,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q406,Istanbul,Estambul,Istanbul,TR,Türkiye,Turquía,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1348,Kolkata,Calcuta,Kolkata,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1461,Manila,Manila,Manila,PH,Philippines,Filipinas,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q16572,Guangzhou,Cantón,Guangzhou,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q11736,Tianjin,Tianjín,Tianjin,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q11739,Lahore,Lahore,Lahore,PK,Pakistan,Pakistán,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1355,Bengaluru,Bangalore,Bengaluru,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q15174,Shenzhen,Shenzhen,Shenzhen,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1352,Chennai,Chennai,Chennai,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q3630,Jakarta,Yakarta,Jakarta,ID,Indonesia,Indonesia,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1861,Bangkok,Bangkok,Bangkok,TH,Thailand,Tailandia,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1361,Hyderabad,Hyderabad,Hyderabad,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q8684,Seoul,Seúl,Seoul,KR,South Korea,Corea del Sur,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q11751,Nagoya,Nagoya,Nagoya,JP,Japan,Japón,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q3616,Tehran,Teherán,Tehran,IR,Iran,Irán,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q30002,Chengdu,Chengdu,Chengdu,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q16666,Nanjing,Nankín,Nanjing,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q11746,Wuhan,Wuhan,Wuhan,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1854,Ho Chi Minh City,Ciudad Ho Chi Minh,Ho Chi Minh City,VN,Vietnam,Vietnam,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1865,Kuala Lumpur,Kuala Lumpur,Kuala Lumpur,MY,Malaysia,Malasia,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q5826,Xi'an,Xi'an,Xi'an,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1070,Ahmedabad,Ahmedabad,Ahmedabad,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q8646,Hong Kong,Hong Kong,Hong Kong,HK,Hong Kong SAR China,RAE de Hong Kong (China),Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q334,Singapore,Singapur,Singapore,SG,Singapore,Singapur,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1530,Baghdad,Bagdad,Baghdad,IQ,Iraq,Irak,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q3692,Riyadh,Riad,Riyadh,SA,Saudi Arabia,Arabia Saudí,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q612,Dubai,Dubái,Dubai,AE,United Arab Emirates,Emiratos Árabes Unidos,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q3861,Doha,Doha,Doha,QA,Qatar,Catar,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q35178,Kuwait City,Ciudad de Kuwait,Kuwait City,KW,Kuwait,Kuwait,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1218,Jerusalem,Jerusalén,Jerusalem,IL,Israel,Israel,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q1867,Taipei,Taipéi,Taipei,TW,Taiwan,Taiwán,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-14
-city-q84,London,Londres,London,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q90,Paris,París,Paris,FR,France,Francia,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q2807,Madrid,Madrid,Madrid,ES,Spain,España,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1492,Barcelona,Barcelona,Barcelona,ES,Spain,España,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q64,Berlin,Berlín,Berlin,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q220,Rome,Roma,Rome,IT,Italy,Italia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q490,Milan,Milán,Milan,IT,Italy,Italia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q649,Moscow,Moscú,Moscow,RU,Russia,Rusia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q656,Saint Petersburg,San Petersburgo,Saint Petersburg,RU,Russia,Rusia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1899,Kyiv,Kiev,Kyiv,UA,Ukraine,Ucrania,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q270,Warsaw,Varsovia,Warsaw,PL,Poland,Polonia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1085,Prague,Praga,Prague,CZ,Czechia,Chequia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1741,Vienna,Viena,Vienna,AT,Austria,Austria,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1781,Budapest,Budapest,Budapest,HU,Hungary,Hungría,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q19660,Bucharest,Bucarest,Bucharest,RO,Romania,Rumanía,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q203263,Athens,Atenas,Athens,GR,Greece,Grecia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q597,Lisbon,Lisboa,Lisbon,PT,Portugal,Portugal,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q36433,Porto,Oporto,Porto,PT,Portugal,Portugal,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1761,Dublin,Dublín,Dublin,IE,Ireland,Irlanda,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q239,Brussels,Bruselas,Brussels,BE,Belgium,Bélgica,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q727,Amsterdam,Ámsterdam,Amsterdam,NL,Netherlands,Países Bajos,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q34370,Rotterdam,Róterdam,Rotterdam,NL,Netherlands,Países Bajos,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1748,Copenhagen,Copenhague,Copenhagen,DK,Denmark,Dinamarca,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1754,Stockholm,Estocolmo,Stockholm,SE,Sweden,Suecia,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q585,Oslo,Oslo,Oslo,NO,Norway,Noruega,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1757,Helsinki,Helsinki,Helsinki,FI,Finland,Finlandia,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q72,Zurich,Zúrich,Zurich,CH,Switzerland,Suiza,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1726,Munich,Múnich,Munich,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1794,Frankfurt,Fráncfort,Frankfurt,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1055,Hamburg,Hamburgo,Hamburg,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q365,Cologne,Colonia,Cologne,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q18125,Manchester,Mánchester,Manchester,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q2256,Birmingham,Birmingham,Birmingham,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q4093,Glasgow,Glasgow,Glasgow,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q23436,Edinburgh,Edimburgo,Edinburgh,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q3711,Belgrade,Belgrado,Belgrade,RS,Serbia,Serbia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q1435,Zagreb,Zagreb,Zagreb,HR,Croatia,Croacia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q11194,Sarajevo,Sarajevo,Sarajevo,BA,Bosnia & Herzegovina,Bosnia y Herzegovina,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q384,Skopje,Skopie,Skopje,MK,North Macedonia,Macedonia del Norte,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q19689,Tirana,Tirana,Tirana,AL,Albania,Albania,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-14
-city-q85,Cairo,El Cairo,Cairo,EG,Egypt,Egipto,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q8673,Lagos,Lagos,Lagos,NG,Nigeria,Nigeria,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3838,Kinshasa,Kinsasa,Kinshasa,CD,Congo - Kinshasa,República Democrática del Congo,Africa,Middle Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q34647,Johannesburg,Johannesburgo,Johannesburg,ZA,South Africa,Sudáfrica,Africa,Southern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3897,Luanda,Luanda,Luanda,AO,Angola,Angola,Africa,Middle Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q1963,Khartoum,Jartum,Khartoum,SD,Sudan,Sudán,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q1960,Dar es Salaam,Dar es-Salam,Dar es Salaam,TZ,Tanzania,Tanzania,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q87,Alexandria,Alejandría,Alexandria,EG,Egypt,Egipto,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q1515,Abidjan,Abiyán,Abidjan,CI,Côte d’Ivoire,Côte d’Ivoire,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3870,Nairobi,Nairobi,Nairobi,KE,Kenya,Kenia,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q7903,Casablanca,Casablanca,Casablanca,MA,Morocco,Marruecos,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3761,Accra,Acra,Accra,GH,Ghana,Ghana,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3624,Addis Ababa,Adís Abeba,Addis Ababa,ET,Ethiopia,Etiopía,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3718,Dakar,Dakar,Dakar,SN,Senegal,Senegal,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3894,Kampala,Kampala,Kampala,UG,Uganda,Uganda,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3889,Maputo,Maputo,Maputo,MZ,Mozambique,Mozambique,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3561,Algiers,Argel,Algiers,DZ,Algeria,Argelia,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3572,Tunis,Túnez,Tunis,TN,Tunisia,Túnez,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3551,Rabat,Rabat,Rabat,MA,Morocco,Marruecos,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3921,Harare,Harare,Harare,ZW,Zimbabwe,Zimbabue,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-14
-city-q3881,Lusaka,Lusaka,Lusaka,ZM,Zambia,Zambia,Africa,Eastern Africa,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3919,Gaborone,Gaborone,Gaborone,BW,Botswana,Botsuana,Africa,Southern Africa,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3935,Windhoek,Windhoek,Windhoek,NA,Namibia,Namibia,Africa,Southern Africa,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3915,Antananarivo,Antananarivo,Antananarivo,MG,Madagascar,Madagascar,Africa,Eastern Africa,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3929,Port Louis,Port Louis,Port Louis,MU,Mauritius,Mauricio,Africa,Eastern Africa,regional_balance,un-wup-2024,approved,2026-09-14
-city-q60,New York City,Nueva York,New York City,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q65,Los Angeles,Los Ángeles,Los Angeles,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1297,Chicago,Chicago,Chicago,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q16557,Dallas,Dallas,Dallas,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q16555,Houston,Houston,Houston,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q61,"Washington, D.C.",Washington D. C.,"Washington, D.C.",US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q8652,Miami,Miami,Miami,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q23556,Atlanta,Atlanta,Atlanta,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q100,Boston,Boston,Boston,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q62,San Francisco,San Francisco,San Francisco,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q5083,Seattle,Seattle,Seattle,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1345,Philadelphia,Filadelfia,Philadelphia,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q172,Toronto,Toronto,Toronto,CA,Canada,Canadá,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q340,Montreal,Montreal,Montreal,CA,Canada,Canadá,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q24639,Vancouver,Vancouver,Vancouver,CA,Canada,Canadá,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1489,Mexico City,Ciudad de México,Mexico City,MX,Mexico,México,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q11953,Guadalajara,Guadalajara,Guadalajara,MX,Mexico,México,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q81033,Monterrey,Monterrey,Monterrey,MX,Mexico,México,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1563,Havana,La Habana,Havana,CU,Cuba,Cuba,North America,Caribbean,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3306,Panama City,Ciudad de Panamá,Panama City,PA,Panama,Panamá,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q174,São Paulo,São Paulo,São Paulo,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1486,Buenos Aires,Buenos Aires,Buenos Aires,AR,Argentina,Argentina,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q8678,Rio de Janeiro,Río de Janeiro,Rio de Janeiro,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q2868,Lima,Lima,Lima,PE,Peru,Perú,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q2841,Bogotá,Bogotá,Bogotá,CO,Colombia,Colombia,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q2887,Santiago,Santiago,Santiago,CL,Chile,Chile,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1533,Caracas,Caracas,Caracas,VE,Venezuela,Venezuela,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q42800,Belo Horizonte,Belo Horizonte,Belo Horizonte,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q2844,Brasília,Brasilia,Brasília,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q36947,Salvador,Salvador de Bahía,Salvador,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q48344,Recife,Recife,Recife,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q48278,Medellín,Medellín,Medellín,CO,Colombia,Colombia,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q2900,Quito,Quito,Quito,EC,Ecuador,Ecuador,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q43509,Guayaquil,Guayaquil,Guayaquil,EC,Ecuador,Ecuador,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q1335,Montevideo,Montevideo,Montevideo,UY,Uruguay,Uruguay,South America,South America,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3130,Sydney,Sídney,Sydney,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3141,Melbourne,Melbourne,Melbourne,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q34932,Brisbane,Brisbane,Brisbane,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q3183,Perth,Perth,Perth,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q5112,Adelaide,Adelaida,Adelaide,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q37100,Auckland,Auckland,Auckland,NZ,New Zealand,Nueva Zelanda,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q23661,Wellington,Wellington,Wellington,NZ,New Zealand,Nueva Zelanda,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q79990,Christchurch,Christchurch,Christchurch,NZ,New Zealand,Nueva Zelanda,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-14
-city-q18094,Honolulu,Honolulú,Honolulu,US,United States,Estados Unidos,Oceania,Polynesia,regional_balance,un-wup-2024,approved,2026-09-14
-city-q38807,Suva,Suva,Suva,FJ,Fiji,Fiyi,Oceania,Melanesia,regional_balance,un-wup-2024,approved,2026-09-14
+city-q1490,Tokyo,Tokio,Tokyo,JP,Japan,Japón,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1353,Delhi,Delhi,Delhi,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q8686,Shanghai,Shanghái,Shanghai,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1354,Dhaka,Daca,Dhaka,BD,Bangladesh,Bangladés,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q956,Beijing,Pekín,Beijing,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1156,Mumbai,Bombay,Mumbai,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q35765,Osaka,Osaka,Osaka,JP,Japan,Japón,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q8660,Karachi,Karachi,Karachi,PK,Pakistan,Pakistán,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q11725,Chongqing,Chongqing,Chongqing,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q406,Istanbul,Estambul,Istanbul,TR,Türkiye,Turquía,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1348,Kolkata,Calcuta,Kolkata,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1461,Manila,Manila,Manila,PH,Philippines,Filipinas,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q16572,Guangzhou,Cantón,Guangzhou,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q11736,Tianjin,Tianjín,Tianjin,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q11739,Lahore,Lahore,Lahore,PK,Pakistan,Pakistán,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1355,Bengaluru,Bangalore,Bengaluru,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q15174,Shenzhen,Shenzhen,Shenzhen,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1352,Chennai,Chennai,Chennai,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q3630,Jakarta,Yakarta,Jakarta,ID,Indonesia,Indonesia,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1861,Bangkok,Bangkok,Bangkok,TH,Thailand,Tailandia,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1361,Hyderabad,Hyderabad,Hyderabad,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q8684,Seoul,Seúl,Seoul,KR,South Korea,Corea del Sur,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q11751,Nagoya,Nagoya,Nagoya,JP,Japan,Japón,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q3616,Tehran,Teherán,Tehran,IR,Iran,Irán,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q30002,Chengdu,Chengdu,Chengdu,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q16666,Nanjing,Nankín,Nanjing,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q11746,Wuhan,Wuhan,Wuhan,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1854,Ho Chi Minh City,Ciudad Ho Chi Minh,Ho Chi Minh City,VN,Vietnam,Vietnam,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1865,Kuala Lumpur,Kuala Lumpur,Kuala Lumpur,MY,Malaysia,Malasia,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q5826,Xi'an,Xi'an,Xi'an,CN,China,China,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1070,Ahmedabad,Ahmedabad,Ahmedabad,IN,India,India,Asia,Southern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q8646,Hong Kong,Hong Kong,Hong Kong,HK,Hong Kong SAR China,RAE de Hong Kong (China),Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q334,Singapore,Singapur,Singapore,SG,Singapore,Singapur,Asia,South-eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1530,Baghdad,Bagdad,Baghdad,IQ,Iraq,Irak,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q3692,Riyadh,Riad,Riyadh,SA,Saudi Arabia,Arabia Saudí,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q612,Dubai,Dubái,Dubai,AE,United Arab Emirates,Emiratos Árabes Unidos,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q3861,Doha,Doha,Doha,QA,Qatar,Catar,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q35178,Kuwait City,Ciudad de Kuwait,Kuwait City,KW,Kuwait,Kuwait,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1218,Jerusalem,Jerusalén,Jerusalem,IL,Israel,Israel,Asia,Western Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q1867,Taipei,Taipéi,Taipei,TW,Taiwan,Taiwán,Asia,Eastern Asia,population_core,un-wup-2024,approved,2026-09-16
+city-q84,London,Londres,London,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q90,Paris,París,Paris,FR,France,Francia,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q2807,Madrid,Madrid,Madrid,ES,Spain,España,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1492,Barcelona,Barcelona,Barcelona,ES,Spain,España,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q64,Berlin,Berlín,Berlin,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q220,Rome,Roma,Rome,IT,Italy,Italia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q490,Milan,Milán,Milan,IT,Italy,Italia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q649,Moscow,Moscú,Moscow,RU,Russia,Rusia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q656,Saint Petersburg,San Petersburgo,Saint Petersburg,RU,Russia,Rusia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1899,Kyiv,Kiev,Kyiv,UA,Ukraine,Ucrania,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q270,Warsaw,Varsovia,Warsaw,PL,Poland,Polonia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1085,Prague,Praga,Prague,CZ,Czechia,Chequia,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1741,Vienna,Viena,Vienna,AT,Austria,Austria,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1781,Budapest,Budapest,Budapest,HU,Hungary,Hungría,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q19660,Bucharest,Bucarest,Bucharest,RO,Romania,Rumanía,Europe,Eastern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q203263,Athens,Atenas,Athens,GR,Greece,Grecia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q597,Lisbon,Lisboa,Lisbon,PT,Portugal,Portugal,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q36433,Porto,Oporto,Porto,PT,Portugal,Portugal,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1761,Dublin,Dublín,Dublin,IE,Ireland,Irlanda,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q239,Brussels,Bruselas,Brussels,BE,Belgium,Bélgica,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q727,Amsterdam,Ámsterdam,Amsterdam,NL,Netherlands,Países Bajos,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q34370,Rotterdam,Róterdam,Rotterdam,NL,Netherlands,Países Bajos,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1748,Copenhagen,Copenhague,Copenhagen,DK,Denmark,Dinamarca,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1754,Stockholm,Estocolmo,Stockholm,SE,Sweden,Suecia,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q585,Oslo,Oslo,Oslo,NO,Norway,Noruega,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1757,Helsinki,Helsinki,Helsinki,FI,Finland,Finlandia,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q72,Zurich,Zúrich,Zurich,CH,Switzerland,Suiza,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1726,Munich,Múnich,Munich,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1794,Frankfurt,Fráncfort,Frankfurt,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1055,Hamburg,Hamburgo,Hamburg,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q365,Cologne,Colonia,Cologne,DE,Germany,Alemania,Europe,Western Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q18125,Manchester,Mánchester,Manchester,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q2256,Birmingham,Birmingham,Birmingham,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q4093,Glasgow,Glasgow,Glasgow,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q23436,Edinburgh,Edimburgo,Edinburgh,GB,United Kingdom,Reino Unido,Europe,Northern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q3711,Belgrade,Belgrado,Belgrade,RS,Serbia,Serbia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q1435,Zagreb,Zagreb,Zagreb,HR,Croatia,Croacia,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q11194,Sarajevo,Sarajevo,Sarajevo,BA,Bosnia & Herzegovina,Bosnia y Herzegovina,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q384,Skopje,Skopie,Skopje,MK,North Macedonia,Macedonia del Norte,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q19689,Tirana,Tirana,Tirana,AL,Albania,Albania,Europe,Southern Europe,population_core,un-wup-2024,approved,2026-09-16
+city-q85,Cairo,El Cairo,Cairo,EG,Egypt,Egipto,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q8673,Lagos,Lagos,Lagos,NG,Nigeria,Nigeria,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3838,Kinshasa,Kinsasa,Kinshasa,CD,Congo - Kinshasa,República Democrática del Congo,Africa,Middle Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q34647,Johannesburg,Johannesburgo,Johannesburg,ZA,South Africa,Sudáfrica,Africa,Southern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3897,Luanda,Luanda,Luanda,AO,Angola,Angola,Africa,Middle Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q1963,Khartoum,Jartum,Khartoum,SD,Sudan,Sudán,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q1960,Dar es Salaam,Dar es-Salam,Dar es Salaam,TZ,Tanzania,Tanzania,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q87,Alexandria,Alejandría,Alexandria,EG,Egypt,Egipto,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q1515,Abidjan,Abiyán,Abidjan,CI,Côte d’Ivoire,Côte d’Ivoire,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3870,Nairobi,Nairobi,Nairobi,KE,Kenya,Kenia,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q7903,Casablanca,Casablanca,Casablanca,MA,Morocco,Marruecos,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3761,Accra,Acra,Accra,GH,Ghana,Ghana,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3624,Addis Ababa,Adís Abeba,Addis Ababa,ET,Ethiopia,Etiopía,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3718,Dakar,Dakar,Dakar,SN,Senegal,Senegal,Africa,Western Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3894,Kampala,Kampala,Kampala,UG,Uganda,Uganda,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3889,Maputo,Maputo,Maputo,MZ,Mozambique,Mozambique,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3561,Algiers,Argel,Algiers,DZ,Algeria,Argelia,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3572,Tunis,Túnez,Tunis,TN,Tunisia,Túnez,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3551,Rabat,Rabat,Rabat,MA,Morocco,Marruecos,Africa,Northern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3921,Harare,Harare,Harare,ZW,Zimbabwe,Zimbabue,Africa,Eastern Africa,population_core,un-wup-2024,approved,2026-09-16
+city-q3881,Lusaka,Lusaka,Lusaka,ZM,Zambia,Zambia,Africa,Eastern Africa,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3919,Gaborone,Gaborone,Gaborone,BW,Botswana,Botsuana,Africa,Southern Africa,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3935,Windhoek,Windhoek,Windhoek,NA,Namibia,Namibia,Africa,Southern Africa,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3915,Antananarivo,Antananarivo,Antananarivo,MG,Madagascar,Madagascar,Africa,Eastern Africa,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3929,Port Louis,Port Louis,Port Louis,MU,Mauritius,Mauricio,Africa,Eastern Africa,regional_balance,un-wup-2024,approved,2026-09-16
+city-q60,New York City,Nueva York,New York City,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q65,Los Angeles,Los Ángeles,Los Angeles,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1297,Chicago,Chicago,Chicago,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q16557,Dallas,Dallas,Dallas,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q16555,Houston,Houston,Houston,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q61,"Washington, D.C.",Washington D. C.,"Washington, D.C.",US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8652,Miami,Miami,Miami,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q23556,Atlanta,Atlanta,Atlanta,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q100,Boston,Boston,Boston,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q62,San Francisco,San Francisco,San Francisco,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q5083,Seattle,Seattle,Seattle,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1345,Philadelphia,Filadelfia,Philadelphia,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q172,Toronto,Toronto,Toronto,CA,Canada,Canadá,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q340,Montreal,Montreal,Montreal,CA,Canada,Canadá,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q24639,Vancouver,Vancouver,Vancouver,CA,Canada,Canadá,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1489,Mexico City,Ciudad de México,Mexico City,MX,Mexico,México,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q11953,Guadalajara,Guadalajara,Guadalajara,MX,Mexico,México,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q81033,Monterrey,Monterrey,Monterrey,MX,Mexico,México,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1563,Havana,La Habana,Havana,CU,Cuba,Cuba,North America,Caribbean,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3306,Panama City,Ciudad de Panamá,Panama City,PA,Panama,Panamá,North America,Central America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q174,São Paulo,São Paulo,São Paulo,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1486,Buenos Aires,Buenos Aires,Buenos Aires,AR,Argentina,Argentina,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8678,Rio de Janeiro,Río de Janeiro,Rio de Janeiro,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q2868,Lima,Lima,Lima,PE,Peru,Perú,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q2841,Bogotá,Bogotá,Bogotá,CO,Colombia,Colombia,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q2887,Santiago,Santiago,Santiago,CL,Chile,Chile,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1533,Caracas,Caracas,Caracas,VE,Venezuela,Venezuela,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q42800,Belo Horizonte,Belo Horizonte,Belo Horizonte,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q2844,Brasília,Brasilia,Brasília,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q36947,Salvador,Salvador de Bahía,Salvador,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q48344,Recife,Recife,Recife,BR,Brazil,Brasil,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q48278,Medellín,Medellín,Medellín,CO,Colombia,Colombia,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q2900,Quito,Quito,Quito,EC,Ecuador,Ecuador,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q43509,Guayaquil,Guayaquil,Guayaquil,EC,Ecuador,Ecuador,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q1335,Montevideo,Montevideo,Montevideo,UY,Uruguay,Uruguay,South America,South America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3130,Sydney,Sídney,Sydney,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3141,Melbourne,Melbourne,Melbourne,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q34932,Brisbane,Brisbane,Brisbane,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q3183,Perth,Perth,Perth,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q5112,Adelaide,Adelaida,Adelaide,AU,Australia,Australia,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q37100,Auckland,Auckland,Auckland,NZ,New Zealand,Nueva Zelanda,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q23661,Wellington,Wellington,Wellington,NZ,New Zealand,Nueva Zelanda,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q79990,Christchurch,Christchurch,Christchurch,NZ,New Zealand,Nueva Zelanda,Oceania,Australia and New Zealand,regional_balance,un-wup-2024,approved,2026-09-16
+city-q18094,Honolulu,Honolulú,Honolulu,US,United States,Estados Unidos,Oceania,Polynesia,regional_balance,un-wup-2024,approved,2026-09-16
+city-q38807,Suva,Suva,Suva,FJ,Fiji,Fiyi,Oceania,Melanesia,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8818,Valencia,Valencia,Valencia,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8692,Bilbao,Bilbao,Bilbao,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8851,Málaga,Málaga,Málaga,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q11974,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q14328,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8826,Palma de Mallorca,Palma de Mallorca,Palma de Mallorca,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q473914,Ibiza,Ibiza,Ibiza,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q49550,Mahón,Mahón,Mahón,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q12233,Santander,Santander,Santander,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q14317,Oviedo,Oviedo,Oviedo,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8757,A Coruña,A Coruña,A Coruña,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q10305,Zaragoza,Zaragoza,Zaragoza,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q15092,Castellón de la Plana,Castellón de la Plana,Castellón de la Plana,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q11959,Alicante,Alicante,Alicante,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q8717,Seville,Sevilla,Seville,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q647543,Arrecife,Arrecife,Arrecife,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q24013882,Puerto del Rosario,Puerto del Rosario,Puerto del Rosario,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q433632,Santa Cruz de La Palma,Santa Cruz de La Palma,Santa Cruz de La Palma,ES,Spain,España,Europe,Southern Europe,regional_balance,un-wup-2024,approved,2026-09-16
+city-q16554,Denver,Denver,Denver,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q23768,Las Vegas,Las Vegas,Las Vegas,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q49233,Orlando,Orlando,Orlando,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q16565,Charlotte,Charlotte,Charlotte,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16
+city-q16556,Phoenix,Phoenix,Phoenix,US,United States,Estados Unidos,North America,Northern America,regional_balance,un-wup-2024,approved,2026-09-16

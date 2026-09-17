@@ -17,8 +17,8 @@ export function DetailPanel({ observation, base, sources, language, onClose }: {
       {base && <div><dt>{copy.index}</dt><dd>{calculateIndex(observation.distance_m, base.distance_m).toLocaleString(locale, { minimumFractionDigits: 1, maximumFractionDigits: 1 })}</dd></div>}
       <div><dt>{copy.height}</dt><dd>{observation.height_m.toLocaleString(locale)} m</dd></div>
       <div><dt>{copy.completed}</dt><dd>{observation.completed_year}</dd></div>
+      <div><dt>{copy.passengers}</dt><dd>{observation.annual_passengers_m == null ? copy.passengersUnavailable : `${observation.annual_passengers_m.toLocaleString(locale, { maximumFractionDigits: 1 })} M${observation.passenger_year ? ` (${observation.passenger_year})` : ''}`}</dd></div>
     </dl>
-    <p className="detail-meta">{observation.primary_airport ? copy.primary : copy.secondary} · {observation.service_pattern === 'seasonal' ? copy.seasonal : copy.yearRound}</p>
     <Suspense fallback={<div className="map-skeleton" aria-hidden="true" />}><MapPanel observation={observation} description={copy.mapDescription} unavailable={copy.mapUnavailable} /></Suspense>
     <div className="detail-copy"><h3>{copy.rationale}</h3><p>{language === 'es' ? observation.selection_reason_es : observation.selection_reason_en}</p></div>
     <div className="detail-grid"><div><span>{copy.confidence}</span><strong>{copy[observation.confidence]}</strong></div><div><span>{copy.coordinates}</span><strong>{observation.tower_latitude.toFixed(5)}, {observation.tower_longitude.toFixed(5)}</strong></div></div>

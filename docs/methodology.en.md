@@ -10,7 +10,7 @@ Every release records its coverage-frame source, review cutoff, source snapshot 
 
 ## Airports
 
-An airport is included when it has publicly bookable scheduled commercial passenger service during the current season or an announced recurring season and credible sources conventionally describe it as serving the city. Airports can lie outside municipal boundaries, and distance alone neither qualifies nor disqualifies them. Recurring seasonal airports are included and labelled.
+An airport is included when it has publicly bookable, year-round scheduled commercial passenger service and credible sources conventionally describe it as serving the city. Airports can lie outside municipal boundaries, and distance alone neither qualifies nor disqualifies them. Seasonal-only airports are excluded.
 
 Charter-only, cargo-only, military, general-aviation, closed and proposed airports are excluded. A single airport may be associated with multiple cities when each association is independently supported. The primary-airport flag is descriptive and does not change distance or rank.
 

@@ -26,7 +26,7 @@ async function main() {
   const sourceIds = new Set(sources.map((item) => item.source_id));
   const requireSource = (id: string, context: string) => { if (!sourceIds.has(id)) fail(`Missing source ${id} referenced by ${context}`); };
 
-  if (cities.length !== 150) fail(`Edition must contain 150 cities; found ${cities.length}`);
+  if (cities.length < 150) fail(`Edition must retain the frozen 150-city frame; found ${cities.length}`);
   cities.forEach((city) => {
     if (!city.city_name_en || !city.city_name_es || !city.country_name_en || !city.country_name_es) fail(`Missing bilingual label for ${city.city_id}`);
     if (city.review_status !== 'approved') fail(`City is not approved: ${city.city_id}`);
@@ -47,6 +47,9 @@ async function main() {
     if (airport.icao && !/^[A-Z0-9]{3,4}$/.test(airport.icao)) fail(`Invalid ICAO code for ${airport.airport_id}`);
     if (airport.iata && codeOwners.has(airport.iata) && codeOwners.get(airport.iata) !== airport.airport_id) fail(`Duplicate IATA code ${airport.iata}`);
     if (airport.iata) codeOwners.set(airport.iata, airport.airport_id);
+    if (airport.annual_passengers_m != null && (!Number.isFinite(airport.annual_passengers_m) || airport.annual_passengers_m < 0)) fail(`Invalid annual passenger demand for ${airport.airport_id}`);
+    if (airport.annual_passengers_m != null && (!airport.passenger_year || !airport.passenger_source_id)) fail(`Passenger demand lacks year or source for ${airport.airport_id}`);
+    if (airport.passenger_source_id) requireSource(airport.passenger_source_id, `${airport.airport_id} passenger demand`);
     requireSource(airport.coordinate_source_id, airport.airport_id);
   });
   towers.forEach((tower) => {
@@ -60,6 +63,7 @@ async function main() {
     if (!cityIds.has(relation.city_id)) fail(`Unknown city in airport relation: ${relation.city_id}`);
     if (!airportIds.has(relation.airport_id)) fail(`Unknown airport in relation: ${relation.airport_id}`);
     if (relation.review_status !== 'approved') fail(`Unapproved city-airport relation: ${relation.city_id}/${relation.airport_id}`);
+    if (relation.include && relation.service_pattern !== 'year_round') fail(`Seasonal-only airport cannot be included: ${relation.city_id}/${relation.airport_id}`);
     requireSource(relation.association_source_id, `${relation.city_id}/${relation.airport_id}`);
     requireSource(relation.service_source_id, `${relation.city_id}/${relation.airport_id}`);
   });
@@ -68,6 +72,28 @@ async function main() {
     if (!towerIds.has(selection.tower_id)) fail(`Unknown tower in selection: ${selection.tower_id}`);
     if (!selection.selection_reason_en || !selection.selection_reason_es) fail(`Missing bilingual rationale: ${selection.city_id}/${selection.mode}`);
     requireSource(selection.selection_source_id, `${selection.city_id}/${selection.mode}`);
+
+    const city = cities.find((item) => item.city_id === selection.city_id)!;
+    const tower = towers.find((item) => item.tower_id === selection.tower_id)!;
+    const normalizedTowerName = tower.tower_name.trim().toLocaleLowerCase('en');
+    const normalizedCityNames = [city.city_name_en, city.city_name_es, city.city_name_local]
+      .map((name) => name.trim().toLocaleLowerCase('en'));
+
+    if (normalizedCityNames.includes(normalizedTowerName)) {
+      warn(`Selected tower uses a city-name placeholder: ${selection.city_id}/${selection.mode}/${tower.tower_id}`);
+    }
+    if (/^q\d+$/i.test(tower.tower_name.trim())) {
+      warn(`Selected tower has an unresolved entity label: ${selection.city_id}/${selection.mode}/${tower.tower_id}`);
+    }
+    if (tower.height_m === 50 && selection.selection_source_id.startsWith('wikidata-')) {
+      warn(`Selected Wikidata candidate has a 50 m fallback-like height requiring manual review: ${selection.city_id}/${selection.mode}/${tower.tower_id}`);
+    }
+    if (/\bbridge\b/i.test(tower.tower_name)) {
+      warn(`Selected landmark name indicates a bridge and needs eligibility review: ${selection.city_id}/${selection.mode}/${tower.tower_id}`);
+    }
+    if (selection.mode === 'iconic' && selection.confidence === 'low') {
+      warn(`Low-confidence iconic selection: ${selection.city_id}/${tower.tower_id}`);
+    }
   });
 
   for (const relation of cityAirports.filter((item) => item.include)) {

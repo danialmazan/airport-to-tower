@@ -43,6 +43,8 @@ async function main() {
         airport_latitude: airport.latitude,
         airport_longitude: airport.longitude,
         airport_type: airport.airport_type,
+        annual_passengers_m: airport.annual_passengers_m,
+        passenger_year: airport.passenger_year,
         primary_airport: relation.primary_airport,
         service_pattern: relation.service_pattern,
         tower_id: tower.tower_id,
@@ -61,7 +63,7 @@ async function main() {
         selection_reason_es: selection.selection_reason_es,
         distance_m: distanceM,
         distance_km: distanceM / 1000,
-        source_ids: [...new Set([airport.coordinate_source_id, relation.association_source_id, relation.service_source_id, tower.coordinate_source_id, tower.height_source_id, selection.selection_source_id])],
+        source_ids: [...new Set([airport.coordinate_source_id, airport.passenger_source_id, relation.association_source_id, relation.service_source_id, tower.coordinate_source_id, tower.height_source_id, selection.selection_source_id].filter(Boolean))],
         reviewed_at: selection.reviewed_at,
       });
     }
@@ -69,10 +71,10 @@ async function main() {
   observations.sort((a, b) => a.mode.localeCompare(b.mode) || a.distance_m - b.distance_m || a.observation_id.localeCompare(b.observation_id));
 
   const metadata: Metadata = {
-    release_id: '2026-research-preview-1',
+    release_id: '2026-top-research-1',
     release_status: 'research_preview',
-    generated_at: '2026-09-14T00:00:00Z',
-    review_cutoff: '2026-09-14',
+    generated_at: '2026-09-16T00:00:00Z',
+    review_cutoff: '2026-09-16',
     methodology_version: '1.0.0',
     city_count: cities.length,
     airport_count: new Set(cityAirports.filter((item) => item.include).map((item) => item.airport_id)).size,
@@ -84,7 +86,7 @@ async function main() {
     },
     low_confidence_selection_count: selections.filter((item) => item.confidence === 'low').length,
     candidate_selection_count: selections.length,
-    source_snapshot: 'OurAirports 2026-09-14; Wikidata entities accessed 2026-09-14',
+    source_snapshot: 'OurAirports 2026-09-14; Wikidata entities and official 2025 airport-demand sources accessed 2026-09-16',
   };
 
   const sourceIds = new Set(observations.flatMap((item) => item.source_ids));

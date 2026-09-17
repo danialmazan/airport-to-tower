@@ -28,6 +28,9 @@ export interface Airport {
   latitude: number;
   longitude: number;
   airport_type: string;
+  annual_passengers_m: number | null;
+  passenger_year: number | null;
+  passenger_source_id: string;
   coordinate_source_id: string;
   reviewed_at: string;
 }
@@ -114,6 +117,8 @@ export interface Observation {
   airport_latitude: number;
   airport_longitude: number;
   airport_type: string;
+  annual_passengers_m: number | null;
+  passenger_year: number | null;
   primary_airport: boolean;
   service_pattern: 'year_round' | 'seasonal';
   tower_id: string;

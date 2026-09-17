@@ -6,6 +6,10 @@
   "scripts": {
     "dev": "vite",
     "research:seed": "tsx scripts/research-seed.ts",
+    "research:airport-demand": "tsx scripts/fetch-wikidata-airport-demand.ts",
+    "data:passengers": "tsx scripts/enrich-airport-demand.ts",
+    "data:audit-heights": "tsx scripts/audit-wikidata-heights.ts",
+    "research:generic-heights": "tsx scripts/research-generic-heights.ts",
     "generate": "tsx scripts/generate-observations.ts",
     "validate:data": "tsx scripts/validate-data.ts",
     "check": "npm run generate && npm run validate:data && tsc --noEmit && vitest run",

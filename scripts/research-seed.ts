@@ -6,12 +6,12 @@ import { createHash } from 'node:crypto';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import Papa from 'papaparse';
 
-const REVIEW_DATE = '2026-09-14';
+const REVIEW_DATE = '2026-09-16';
 const WIKIDATA_API = 'https://www.wikidata.org/w/api.php';
 const SPARQL_API = 'https://query.wikidata.org/sparql';
 const SEARCH_CACHE = '/private/tmp/airport-tower-search-cache.json';
 const ENTITY_CACHE = '/private/tmp/airport-tower-entity-cache.json';
-const TALLEST_CACHE = '/private/tmp/airport-tower-tallest-cache.json';
+const TALLEST_CACHE = '/private/tmp/airport-tower-tallest-cache-v2.json';
 const CITY_QID_OVERRIDES: Record<string, string> = {
   'Alexandria': 'Q87', 'Adelaide': 'Q5112', 'Auckland': 'Q37100', 'Buenos Aires': 'Q1486',
   'Chicago': 'Q1297', 'Christchurch': 'Q79990', 'Delhi': 'Q1353', 'Hamburg': 'Q1055',
@@ -170,6 +170,29 @@ Wellington|Wellington|NZ|Oceania|Australia and New Zealand|WLG|Majestic Centre
 Christchurch|Christchurch|NZ|Oceania|Australia and New Zealand|CHC|ChristChurch Cathedral
 Honolulu|Honolulú|US|Oceania|Polynesia|HNL|Aloha Tower
 Suva|Suva|FJ|Oceania|Melanesia|SUV|Sacred Heart Cathedral Suva
+Valencia|Valencia|ES|Europe|Southern Europe|VLC|El Micalet
+Bilbao|Bilbao|ES|Europe|Southern Europe|BIO|Iberdrola Tower
+Málaga|Málaga|ES|Europe|Southern Europe|AGP|Málaga Cathedral
+Las Palmas de Gran Canaria|Las Palmas de Gran Canaria|ES|Europe|Southern Europe|LPA|Cathedral of Santa Ana
+Santa Cruz de Tenerife|Santa Cruz de Tenerife|ES|Europe|Southern Europe|TFN;TFS|Torres de Santa Cruz
+Palma de Mallorca|Palma de Mallorca|ES|Europe|Southern Europe|PMI|Palma Cathedral
+Ibiza|Ibiza|ES|Europe|Southern Europe|IBZ|Ibiza Cathedral
+Mahón|Mahón|ES|Europe|Southern Europe|MAH|Santa Maria de Maó
+Santander|Santander|ES|Europe|Southern Europe|SDR|Santander Cathedral
+Oviedo|Oviedo|ES|Europe|Southern Europe|OVD|Oviedo Cathedral
+A Coruña|A Coruña|ES|Europe|Southern Europe|LCG|Tower of Hercules
+Zaragoza|Zaragoza|ES|Europe|Southern Europe|ZAZ|Basilica of Our Lady of the Pillar
+Castellón de la Plana|Castellón de la Plana|ES|Europe|Southern Europe|CDT|El Fadrí
+Alicante|Alicante|ES|Europe|Southern Europe|ALC|Gran Sol Alicante
+Seville|Sevilla|ES|Europe|Southern Europe|SVQ|Giralda
+Arrecife|Arrecife|ES|Europe|Southern Europe|ACE|Arrecife Gran Hotel
+Puerto del Rosario|Puerto del Rosario|ES|Europe|Southern Europe|FUE|Nuestra Señora del Rosario Puerto del Rosario
+Santa Cruz de La Palma|Santa Cruz de La Palma|ES|Europe|Southern Europe|SPC|Church of El Salvador Santa Cruz de La Palma
+Denver|Denver|US|North America|Northern America|DEN|Daniels & Fisher Tower
+Las Vegas|Las Vegas|US|North America|Northern America|LAS|The Strat
+Orlando|Orlando|US|North America|Northern America|MCO|Bank of America Center Orlando
+Charlotte|Charlotte|US|North America|Northern America|CLT|Bank of America Corporate Center
+Phoenix|Phoenix|US|North America|Northern America|PHX|Chase Tower Phoenix
 `.trim();
 
 interface Seed {
@@ -191,7 +214,7 @@ const seeds: Seed[] = citySeed.split('\n').map((line) => {
   return { nameEn, nameEs, country, continent, region, iatas: iatas.split(';'), iconic };
 });
 
-if (seeds.length !== 150) throw new Error(`Expected 150 city seeds, found ${seeds.length}`);
+if (seeds.length < 150) throw new Error(`Expected at least the frozen 150-city frame, found ${seeds.length}`);
 
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 const slug = (value: string) => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -266,6 +289,24 @@ function claimNumber(entity: any, property: string, fallback = 0): number {
   return fallback;
 }
 
+function claimHeightMetres(entity: any, fallback = 0): number {
+  const claims = entity?.claims?.P2048 ?? [];
+  const unitFactors: Record<string, number> = {
+    Q11573: 1,
+    Q3710: 0.3048,
+    Q174728: 0.01,
+    Q174789: 0.001,
+  };
+  for (const claim of claims) {
+    const value = claim?.mainsnak?.datavalue?.value;
+    if (typeof value?.amount !== 'string') continue;
+    const unitId = String(value.unit ?? '').split('/').pop();
+    const factor = unitId ? unitFactors[unitId] : undefined;
+    if (factor) return Number(value.amount) * factor;
+  }
+  return fallback;
+}
+
 function claimCoord(entity: any): { lat: number; lon: number } | null {
   const value = entity?.claims?.P625?.[0]?.mainsnak?.datavalue?.value;
   return value && Number.isFinite(value.latitude) ? { lat: value.latitude, lon: value.longitude } : null;
@@ -288,8 +329,11 @@ async function loadEntities(ids: string[]): Promise<Map<string, any>> {
 
 async function tallestForCity(cityQid: string): Promise<Place | null> {
   const query = `SELECT ?item ?itemLabel ?height ?coord ?year WHERE {
-    ?item wdt:P131* wd:${cityQid}; wdt:P2048 ?height; wdt:P625 ?coord; wdt:P31/wdt:P279* ?kind.
+    ?item wdt:P131* wd:${cityQid}; p:P2048 ?heightStatement; wdt:P625 ?coord; wdt:P31/wdt:P279* ?kind.
+    ?heightStatement <http://www.wikidata.org/prop/statement/value-normalized/P2048> ?heightNode.
+    ?heightNode wikibase:quantityAmount ?height.
     VALUES ?kind { wd:Q41176 wd:Q12518 wd:Q483110 wd:Q200334 wd:Q3947 }
+    FILTER NOT EXISTS { ?item wdt:P5817 wd:Q811683 }
     OPTIONAL { ?item wdt:P1619 ?date. BIND(YEAR(?date) AS ?year) }
     FILTER(?height > 20 && ?height < 1000)
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
@@ -317,7 +361,9 @@ async function tallestForCities(cityQids: string[]): Promise<Map<string, Place>>
       VALUES ?city { ${values} }
       { SELECT ?city (MAX(?candidateHeight) AS ?height) WHERE {
           VALUES ?city { ${values} }
-          ?candidate wdt:P131* ?city; wdt:P2048 ?candidateHeight; wdt:P625 ?candidateCoord; wdt:P31/wdt:P279* ?candidateKind.
+          ?candidate wdt:P131* ?city; p:P2048 ?heightStatement; wdt:P625 ?candidateCoord; wdt:P31/wdt:P279* ?candidateKind.
+          ?heightStatement <http://www.wikidata.org/prop/statement/value-normalized/P2048> ?heightNode.
+          ?heightNode wikibase:quantityAmount ?candidateHeight.
           VALUES ?candidateKind { wd:Q41176 wd:Q12518 wd:Q483110 wd:Q200334 wd:Q3947 }
           FILTER(?candidateHeight > 20)
         } GROUP BY ?city }
@@ -403,6 +449,8 @@ async function main() {
   const sources: Record<string, unknown>[] = [
     { source_id: 'un-wup-2024', publisher: 'United Nations DESA', title: 'World Urbanization Prospects 2024', url: 'https://population.un.org/wup/', accessed_at: REVIEW_DATE, source_type: 'coverage frame', licence_note: 'UN data; attribution required' },
     { source_id: 'ourairports-2026-09-14', publisher: 'OurAirports', title: 'OurAirports open data snapshot', url: 'https://ourairports.com/data/', accessed_at: REVIEW_DATE, source_type: 'airport coordinates and discovery', licence_note: 'Public domain' },
+    { source_id: 'aci-world-2025-passengers', publisher: 'Airports Council International World', title: 'Busiest airports by overall passenger traffic in 2025', url: 'https://aci.aero/resources/busiest-airports-in-the-world/', accessed_at: REVIEW_DATE, source_type: 'annual airport passenger demand', licence_note: 'Published ranking; reuse note pending' },
+    { source_id: 'aena-2025-annual-traffic', publisher: 'Aena', title: 'Annual airport traffic report 2025', url: 'https://www.aena.es/es/estadisticas/informes-anuales.html', accessed_at: REVIEW_DATE, source_type: 'annual airport passenger demand', licence_note: 'Official provisional annual statistics' },
   ];
   const sourceIds = new Set(sources.map((row) => String(row.source_id)));
   const addWikidataSource = (qid: string, label: string) => {
@@ -432,7 +480,7 @@ async function main() {
       const airport = airportByIata.get(iata);
       if (!airport) throw new Error(`IATA ${iata} not found for ${seed.nameEn}`);
       const airportId = `ourairports-${airport.id}`;
-      airports.set(airportId, { airport_id: airportId, airport_name: airport.name, airport_name_es: airport.name, iata, icao: airport.icao_code || airport.ident, latitude: Number(airport.latitude_deg), longitude: Number(airport.longitude_deg), airport_type: airport.type, coordinate_source_id: 'ourairports-2026-09-14', reviewed_at: REVIEW_DATE });
+      airports.set(airportId, { airport_id: airportId, airport_name: airport.name, airport_name_es: airport.name, iata, icao: airport.icao_code || airport.ident, latitude: Number(airport.latitude_deg), longitude: Number(airport.longitude_deg), airport_type: airport.type, annual_passengers_m: '', passenger_year: '', passenger_source_id: '', coordinate_source_id: 'ourairports-2026-09-14', reviewed_at: REVIEW_DATE });
       cityAirports.push({ city_id: cityId, airport_id: airportId, include: true, primary_airport: airportIndex === 0, airport_order: airportIndex + 1, service_pattern: 'year_round', qualifying_service_as_of: REVIEW_DATE, association_source_id: 'ourairports-2026-09-14', service_source_id: 'ourairports-2026-09-14', inclusion_reason_en: `Scheduled commercial airport conventionally serving ${seed.nameEn}.`, inclusion_reason_es: `Aeropuerto comercial con servicios regulares que sirve convencionalmente a ${seed.nameEs}.`, review_status: 'approved' });
     });
 
@@ -445,7 +493,7 @@ async function main() {
       : claimCoord(iconicEntity) ?? claimCoord(entityMap.get(city.id));
     if (!iconicCoord) throw new Error(`No coordinates for iconic landmark ${iconic.label}`);
     const iconicTowerId = `wikidata-${iconicQid.toLowerCase()}`;
-    const iconicHeight = useTallestForIconic ? highest!.height : claimNumber(iconicEntity, 'P2048', 50);
+    const iconicHeight = useTallestForIconic ? highest!.height : claimHeightMetres(iconicEntity, 50);
     const iconicYear = useTallestForIconic ? highest!.year : claimNumber(iconicEntity, 'P1619', claimNumber(iconicEntity, 'P571', 1900));
     const iconicSource = addWikidataSource(iconicQid, iconicLabel);
     towers.set(iconicTowerId, { tower_id: iconicTowerId, tower_name: iconicLabel, tower_name_es: iconicLabel, latitude: iconicCoord.lat, longitude: iconicCoord.lon, height_m: iconicHeight > 0 ? iconicHeight : 50, height_basis: 'structural_tip', tower_type: 'vertical_landmark', completed_year: iconicYear || 1900, completion_status: 'completed', coordinate_source_id: iconicSource, height_source_id: iconicSource });

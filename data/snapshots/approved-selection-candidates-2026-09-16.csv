@@ -1,0 +1,21 @@
+city,mode,query,rank,qid,label,description,url
+Glasgow,tallest,Glasgow Tower,0,Q3533344,Glasgow Tower,"observation tower in Glasgow City, Scotland, UK",http://www.wikidata.org/entity/Q3533344
+Algiers,tallest,Great Mosque of Algiers,0,Q23012984,Djamaa El Djazaïr,"third largest mosque in the world and the tallest minaret in the world, located in Mohammadia, Algiers, Algeria",http://www.wikidata.org/entity/Q23012984
+Algiers,tallest,Great Mosque of Algiers,1,Q2386475,Djamaa El Kebir of Algiers,"historic mosque in Algiers, Algeria",http://www.wikidata.org/entity/Q2386475
+Algiers,tallest,Great Mosque of Algiers,2,Q25453544,Ali Bitchin Mosque,"mosque in Algiers, Algeria",http://www.wikidata.org/entity/Q25453544
+Algiers,tallest,Great Mosque of Algiers,3,Q65476807,Great Mosque of Algiers,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q65476807
+Antananarivo,iconic,Rova of Antananarivo,0,Q1290337,Rova of Antananarivo,royal complex in Madagascar,http://www.wikidata.org/entity/Q1290337
+Belo Horizonte,iconic,Edificio Acaiaca,0,Q18470509,Acaiaca building,"building in Belo Horizonte, Brazil",http://www.wikidata.org/entity/Q18470509
+Belo Horizonte,tallest,Edificio Aureliano Chaves,0,Q82800323,Aureliano Chaves building,"office building in Belo Horizonte, Brazil",http://www.wikidata.org/entity/Q82800323
+Adelaide,tallest,Frome Central Tower One,0,Q125766623,The Adelaidean,"building in Adelaide, South Australia",http://www.wikidata.org/entity/Q125766623
+Puerto del Rosario,tallest,Puerto del Rosario Lighthouse,0,Q21039368,Puerto del Rosario Lighthouse,lighthouse in Spain,http://www.wikidata.org/entity/Q21039368
+Beijing,iconic,Temple of Heaven,0,Q125445,Temple of Heaven,"imperial complex of religious buildings in Beijing, China",http://www.wikidata.org/entity/Q125445
+Beijing,iconic,Temple of Heaven,1,Q110644816,Temple of Heaven,China through the eyes of CIM Missionaries,http://www.wikidata.org/entity/Q110644816
+Beijing,iconic,Temple of Heaven,2,Q137569099,Temple of Heaven,"prefecture-level city in Sichuan, China",http://www.wikidata.org/entity/Q137569099
+Beijing,iconic,Temple of Heaven,3,Q5972711,Temple of Heaven East Gate station,"Beijing Subway station in Dongcheng, Beijing",http://www.wikidata.org/entity/Q5972711
+Beijing,iconic,Temple of Heaven,4,Q10939305,Tiantan Draft Constitution,Draft of the Constitution of the Republic of China in 1913,http://www.wikidata.org/entity/Q10939305
+Beijing,iconic,Temple of Heaven,5,Q64147563,"Temple of Heaven from the Place Where the Priests Are Burnt, in the Chinese City of Pekin, October 1860",photograph in the National Gallery of Art (NGA 163381),http://www.wikidata.org/entity/Q64147563
+Birmingham,iconic,Joseph Chamberlain Memorial Clock Tower,0,Q5620988,Joseph Chamberlain Memorial Clock Tower,"clock tower in Birmingham, United Kingdom",http://www.wikidata.org/entity/Q5620988
+Alexandria,iconic,Montaza Palace,0,Q1350295,Montaza Palace,"palace in Alexandria, Egypt",http://www.wikidata.org/entity/Q1350295
+Alexandria,iconic,Montaza Palace,1,Q28376034,Montaza Palace Lighthouse,lighthouse in Egypt,http://www.wikidata.org/entity/Q28376034
+Lagos,iconic,NECOM House,0,Q16733944,NITEL Building,building in Nigeria,http://www.wikidata.org/entity/Q16733944
