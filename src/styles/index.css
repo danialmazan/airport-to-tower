@@ -23,7 +23,7 @@ a { color: inherit; text-underline-offset: .18em; }
 
 .site-header { position: relative; min-height: 540px; overflow: hidden; border-bottom: 1px solid var(--border); background-color: var(--bg); background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 54px 54px; }
 .site-header::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, var(--bg) 0 43%, color-mix(in srgb, var(--bg), transparent 9%) 63%, transparent); pointer-events: none; }
-.top-nav, .header-copy { width: min(1380px, calc(100% - 48px)); margin-inline: auto; position: relative; z-index: 2; }
+.top-nav, .header-copy { width: calc(100% - 48px); margin-inline: auto; position: relative; z-index: 2; }
 .top-nav { height: 74px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid color-mix(in srgb, var(--border), transparent 15%); }
 .top-nav > div { display: flex; align-items: center; gap: 28px; }
 .top-nav a { font-size: .84rem; text-decoration: none; }
@@ -46,9 +46,9 @@ a { color: inherit; text-underline-offset: .18em; }
 .tower-mark { right: 10%; top: calc(50% - 55px); width: 58px; height: 110px; color: var(--highlight); }
 
 main { display: block; }
-.workspace { width: min(1380px, calc(100% - 48px)); margin: 0 auto; padding: 52px 0 26px; }
+.workspace { width: calc(100% - 48px); margin: 0 auto; padding: 52px 0 26px; }
 .control-title { margin: 0 0 14px; color: var(--muted); font: 600 .69rem/1 var(--mono); letter-spacing: .07em; text-transform: uppercase; }
-.mode-row { display: grid; grid-template-columns: 300px minmax(0, 680px); align-items: center; gap: 36px; padding-bottom: 34px; border-bottom: 1px solid var(--border); }
+.mode-row { display: grid; grid-template-columns: 300px minmax(0, 1fr); align-items: center; gap: 36px; padding-bottom: 34px; border-bottom: 1px solid var(--border); }
 .segmented { display: inline-grid; grid-template-columns: 1fr 1fr; padding: 4px; border-radius: var(--radius); background: #e8eae7; }
 .segmented button { min-height: 44px; padding: 0 24px; border: 0; border-radius: 5px; background: transparent; color: var(--muted); cursor: pointer; font-weight: 600; }
 .segmented button.active { background: var(--text); color: var(--bg); box-shadow: 0 2px 8px #0002; }
